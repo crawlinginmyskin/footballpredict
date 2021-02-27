@@ -43,7 +43,7 @@ def get_teams(codes, venue):
 
 def get_matches(codes):
 	# this function gets all matches that were played this season
-	headers = {'X-Auth-Token': '077b727652784ba0be8fc02eeda01a32'}
+	headers = {'X-Auth-Token': 'API-KEY'}
 	data_connection = http.client.HTTPConnection('api.football-data.org')
 	matches_df = pd.DataFrame()
 	league_matches = 380
