@@ -1,0 +1,97 @@
+,0,1,2,3,4,5,6
+0,Manchester City FC,5.0,18,5,2,50,15
+1,Manchester United FC,3.5,14,7,4,53,32
+2,Leicester City FC,3.5,15,4,6,44,27
+3,West Ham United FC,3.5,13,6,6,39,29
+4,Chelsea FC,4.5,12,7,6,41,25
+5,Liverpool FC,1.0,11,7,7,45,34
+6,Everton FC,2.5,12,4,8,37,33
+7,Aston Villa FC,2.5,11,3,9,37,26
+8,Tottenham Hotspur FC,1.0,10,6,8,37,27
+9,Leeds United FC,2.0,11,2,12,43,43
+10,Arsenal FC,1.5,10,4,11,31,26
+11,Wolverhampton Wanderers FC,3.5,9,6,10,26,32
+12,Crystal Palace FC,3.0,9,5,11,29,43
+13,Southampton FC,0.5,8,6,11,31,43
+14,Burnley FC,2.5,7,7,11,18,30
+15,Brighton & Hove Albion FC,3.0,5,11,9,26,32
+16,Newcastle United FC,2.0,7,4,14,26,43
+17,Fulham FC,3.0,4,10,11,21,32
+18,West Bromwich Albion FC,1.5,2,8,15,19,55
+19,Sheffield United FC,1.0,3,2,20,15,41
+20,FC Bayern München,3.5,15,4,3,62,31
+21,RB Leipzig,4.0,14,5,3,40,18
+22,VfL Wolfsburg,4.5,11,9,2,35,19
+23,Eintracht Frankfurt,5.0,11,9,2,45,30
+24,Bayer 04 Leverkusen,2.0,10,7,5,40,24
+25,Borussia Dortmund,2.5,11,3,8,45,31
+26,1. FC Union Berlin,2.0,8,9,5,35,25
+27,Borussia Mönchengladbach,2.0,8,9,5,38,33
+28,SC Freiburg,2.5,8,7,7,35,34
+29,VfB Stuttgart,2.5,7,8,7,39,35
+30,TSG 1899 Hoffenheim,2.5,7,5,10,36,39
+31,SV Werder Bremen,2.0,5,8,8,24,31
+32,FC Augsburg,1.5,6,5,11,22,35
+33,1. FC Köln,2.0,5,6,11,20,36
+34,Hertha BSC,0.5,4,6,12,26,40
+35,Arminia Bielefeld,1.5,5,3,13,18,38
+36,FC Internazionale Milano,4.5,16,5,2,57,24
+37,AC Milan,2.0,15,4,4,45,28
+38,Juventus FC,4.0,13,6,3,44,19
+39,AS Roma,3.5,13,5,5,47,35
+40,Atalanta BC,3.5,12,7,4,53,31
+41,SS Lazio,4.0,13,4,6,38,30
+42,SSC Napoli,2.0,13,1,8,47,25
+43,US Sassuolo Calcio,2.0,9,8,6,37,34
+44,Hellas Verona FC,2.5,9,7,7,30,26
+45,UC Sampdoria,2.5,9,3,11,33,34
+46,Genoa CFC,4.0,6,8,9,26,33
+47,Benevento Calcio,2.0,6,7,10,25,42
+48,ACF Fiorentina,2.5,6,7,10,25,35
+49,Bologna FC 1909,2.0,6,7,10,30,37
+50,Udinese Calcio,3.0,6,7,10,25,33
+51,Spezia Calcio,2.0,6,6,11,30,41
+52,Torino FC,3.0,3,11,9,33,41
+53,Cagliari Calcio,0.5,3,6,14,24,41
+54,Parma Calcio 1913,0.5,2,8,13,17,45
+55,FC Crotone,0.0,3,3,17,23,55
+56,Club Atlético de Madrid,3.0,17,4,2,45,16
+57,Real Madrid CF,4.0,16,4,4,42,19
+58,FC Barcelona,4.5,15,5,4,53,22
+59,Sevilla FC,5.0,15,3,5,34,16
+60,Real Sociedad de Fútbol,4.0,11,8,5,41,20
+61,Villarreal CF,2.0,8,13,3,33,25
+62,Real Betis Balompié,3.5,11,3,10,32,38
+63,Levante UD,3.0,7,10,7,34,33
+64,Granada CF,1.0,8,6,10,29,41
+65,Athletic Club,3.0,8,5,10,33,27
+66,RC Celta de Vigo,2.5,7,8,9,29,36
+67,Valencia CF,2.5,6,9,9,30,32
+68,CA Osasuna,3.0,6,7,11,22,33
+69,Cádiz CF,0.5,6,7,11,21,40
+70,Getafe CF,0.5,6,6,12,17,30
+71,Deportivo Alavés,1.5,5,7,12,20,38
+72,SD Eibar,1.0,4,9,11,19,27
+73,Real Valladolid CF,1.0,4,9,11,22,35
+74,Elche CF,1.5,4,9,10,20,34
+75,SD Huesca,2.5,3,10,11,21,35
+76,Lille OSC,4.5,17,7,2,46,16
+77,Olympique Lyonnais,4.0,16,7,3,54,24
+78,Paris Saint-Germain FC,3.0,17,3,6,57,17
+79,AS Monaco FC,4.5,16,4,6,54,37
+80,Racing Club de Lens,3.5,11,7,8,37,35
+81,FC Metz,2.5,10,8,8,31,25
+82,Olympique de Marseille,2.5,10,8,7,33,29
+83,Stade Rennais FC 1901,1.0,10,8,7,32,28
+84,Montpellier HSC,3.5,11,5,10,43,46
+85,Angers SCO,2.0,10,5,11,30,40
+86,FC Girondins de Bordeaux,0.5,9,6,11,27,31
+87,Stade Brestois 29,2.0,9,4,13,39,47
+88,Stade de Reims,2.5,7,9,10,32,34
+89,AS Saint-Étienne,4.0,7,9,10,26,37
+90,RC Strasbourg Alsace,2.0,8,5,13,34,40
+91,OGC Nice,1.0,8,5,13,31,38
+92,Nîmes Olympique,3.0,7,3,16,25,51
+93,FC Nantes,2.0,4,11,11,26,41
+94,FC Lorient,2.0,6,5,15,31,50
+95,Dijon Football Côte d'Or,0.0,2,9,15,18,40
