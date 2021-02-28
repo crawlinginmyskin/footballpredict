@@ -247,926 +247,947 @@
 245,Manchester United FC,Newcastle United FC,HOME_TEAM
 246,Brighton & Hove Albion FC,Crystal Palace FC,AWAY_TEAM
 247,Leeds United FC,Southampton FC,HOME_TEAM
-248,FC Bayern München,FC Schalke 04,HOME_TEAM
-249,1. FC Köln,TSG 1899 Hoffenheim,AWAY_TEAM
-250,Eintracht Frankfurt,Arminia Bielefeld,DRAW
-251,VfB Stuttgart,SC Freiburg,AWAY_TEAM
-252,SV Werder Bremen,Hertha BSC,AWAY_TEAM
-253,1. FC Union Berlin,FC Augsburg,AWAY_TEAM
-254,Borussia Dortmund,Borussia Mönchengladbach,HOME_TEAM
-255,RB Leipzig,1. FSV Mainz 05,HOME_TEAM
-256,VfL Wolfsburg,Bayer 04 Leverkusen,DRAW
-257,Hertha BSC,Eintracht Frankfurt,AWAY_TEAM
-258,Borussia Mönchengladbach,1. FC Union Berlin,DRAW
-259,Arminia Bielefeld,1. FC Köln,HOME_TEAM
-260,Bayer 04 Leverkusen,RB Leipzig,DRAW
-261,1. FSV Mainz 05,VfB Stuttgart,AWAY_TEAM
-262,FC Augsburg,Borussia Dortmund,HOME_TEAM
-263,FC Schalke 04,SV Werder Bremen,AWAY_TEAM
-264,TSG 1899 Hoffenheim,FC Bayern München,HOME_TEAM
-265,SC Freiburg,VfL Wolfsburg,DRAW
-266,1. FC Union Berlin,1. FSV Mainz 05,HOME_TEAM
-267,1. FC Köln,Borussia Mönchengladbach,AWAY_TEAM
-268,Eintracht Frankfurt,TSG 1899 Hoffenheim,HOME_TEAM
-269,Borussia Dortmund,SC Freiburg,HOME_TEAM
-270,VfB Stuttgart,Bayer 04 Leverkusen,DRAW
-271,SV Werder Bremen,Arminia Bielefeld,HOME_TEAM
-272,RB Leipzig,FC Schalke 04,HOME_TEAM
-273,VfL Wolfsburg,FC Augsburg,DRAW
-274,FC Bayern München,Hertha BSC,HOME_TEAM
-275,Hertha BSC,VfB Stuttgart,AWAY_TEAM
-276,SC Freiburg,SV Werder Bremen,DRAW
-277,1. FSV Mainz 05,Bayer 04 Leverkusen,AWAY_TEAM
-278,TSG 1899 Hoffenheim,Borussia Dortmund,AWAY_TEAM
-279,FC Augsburg,RB Leipzig,AWAY_TEAM
-280,Arminia Bielefeld,FC Bayern München,AWAY_TEAM
-281,Borussia Mönchengladbach,VfL Wolfsburg,DRAW
-282,1. FC Köln,Eintracht Frankfurt,DRAW
-283,FC Schalke 04,1. FC Union Berlin,DRAW
-284,VfB Stuttgart,1. FC Köln,DRAW
-285,FC Bayern München,Eintracht Frankfurt,HOME_TEAM
-286,1. FSV Mainz 05,Borussia Mönchengladbach,AWAY_TEAM
-287,1. FC Union Berlin,SC Freiburg,DRAW
-288,RB Leipzig,Hertha BSC,HOME_TEAM
-289,Borussia Dortmund,FC Schalke 04,HOME_TEAM
-290,VfL Wolfsburg,Arminia Bielefeld,HOME_TEAM
-291,SV Werder Bremen,TSG 1899 Hoffenheim,DRAW
-292,Bayer 04 Leverkusen,FC Augsburg,HOME_TEAM
-293,FC Schalke 04,VfB Stuttgart,DRAW
-294,1. FC Köln,FC Bayern München,AWAY_TEAM
-295,Eintracht Frankfurt,SV Werder Bremen,DRAW
-296,Arminia Bielefeld,Borussia Dortmund,AWAY_TEAM
-297,FC Augsburg,1. FSV Mainz 05,HOME_TEAM
-298,Borussia Mönchengladbach,RB Leipzig,HOME_TEAM
-299,SC Freiburg,Bayer 04 Leverkusen,AWAY_TEAM
-300,Hertha BSC,VfL Wolfsburg,DRAW
-301,TSG 1899 Hoffenheim,1. FC Union Berlin,AWAY_TEAM
-302,SV Werder Bremen,1. FC Köln,DRAW
-303,VfB Stuttgart,Eintracht Frankfurt,DRAW
-304,1. FSV Mainz 05,FC Schalke 04,DRAW
-305,FC Augsburg,Hertha BSC,AWAY_TEAM
-306,1. FC Union Berlin,Arminia Bielefeld,HOME_TEAM
-307,RB Leipzig,SC Freiburg,HOME_TEAM
-308,Borussia Dortmund,FC Bayern München,AWAY_TEAM
-309,VfL Wolfsburg,TSG 1899 Hoffenheim,HOME_TEAM
-310,Bayer 04 Leverkusen,Borussia Mönchengladbach,HOME_TEAM
-311,FC Schalke 04,VfL Wolfsburg,AWAY_TEAM
-312,Borussia Mönchengladbach,FC Augsburg,DRAW
-313,FC Bayern München,SV Werder Bremen,DRAW
-314,Arminia Bielefeld,Bayer 04 Leverkusen,AWAY_TEAM
-315,TSG 1899 Hoffenheim,VfB Stuttgart,DRAW
-316,Eintracht Frankfurt,RB Leipzig,DRAW
-317,Hertha BSC,Borussia Dortmund,AWAY_TEAM
-318,SC Freiburg,1. FSV Mainz 05,AWAY_TEAM
-319,1. FC Köln,1. FC Union Berlin,AWAY_TEAM
-320,VfL Wolfsburg,SV Werder Bremen,HOME_TEAM
-321,Borussia Dortmund,1. FC Köln,AWAY_TEAM
-322,VfB Stuttgart,FC Bayern München,AWAY_TEAM
-323,FC Augsburg,SC Freiburg,DRAW
-324,1. FC Union Berlin,Eintracht Frankfurt,DRAW
-325,RB Leipzig,Arminia Bielefeld,HOME_TEAM
-326,Borussia Mönchengladbach,FC Schalke 04,HOME_TEAM
-327,Bayer 04 Leverkusen,Hertha BSC,DRAW
-328,1. FSV Mainz 05,TSG 1899 Hoffenheim,DRAW
-329,Hertha BSC,1. FC Union Berlin,HOME_TEAM
-330,1. FC Köln,VfL Wolfsburg,DRAW
-331,Eintracht Frankfurt,Borussia Dortmund,DRAW
-332,Arminia Bielefeld,1. FSV Mainz 05,HOME_TEAM
-333,SC Freiburg,Borussia Mönchengladbach,DRAW
-334,FC Bayern München,RB Leipzig,DRAW
-335,SV Werder Bremen,VfB Stuttgart,AWAY_TEAM
-336,FC Schalke 04,Bayer 04 Leverkusen,AWAY_TEAM
-337,TSG 1899 Hoffenheim,FC Augsburg,HOME_TEAM
-338,VfL Wolfsburg,Eintracht Frankfurt,HOME_TEAM
-339,Borussia Dortmund,VfB Stuttgart,AWAY_TEAM
-340,Borussia Mönchengladbach,Hertha BSC,DRAW
-341,SC Freiburg,Arminia Bielefeld,HOME_TEAM
-342,1. FSV Mainz 05,1. FC Köln,AWAY_TEAM
-343,RB Leipzig,SV Werder Bremen,HOME_TEAM
-344,1. FC Union Berlin,FC Bayern München,DRAW
-345,FC Augsburg,FC Schalke 04,DRAW
-346,Bayer 04 Leverkusen,TSG 1899 Hoffenheim,HOME_TEAM
-347,Eintracht Frankfurt,Borussia Mönchengladbach,DRAW
-348,SV Werder Bremen,Borussia Dortmund,AWAY_TEAM
-349,Hertha BSC,1. FSV Mainz 05,DRAW
-350,VfB Stuttgart,1. FC Union Berlin,DRAW
-351,FC Schalke 04,SC Freiburg,AWAY_TEAM
-352,FC Bayern München,VfL Wolfsburg,HOME_TEAM
-353,Arminia Bielefeld,FC Augsburg,AWAY_TEAM
-354,TSG 1899 Hoffenheim,RB Leipzig,AWAY_TEAM
-355,1. FC Köln,Bayer 04 Leverkusen,AWAY_TEAM
-356,1. FC Union Berlin,Borussia Dortmund,HOME_TEAM
-357,FC Schalke 04,Arminia Bielefeld,AWAY_TEAM
-358,Borussia Mönchengladbach,TSG 1899 Hoffenheim,AWAY_TEAM
-359,1. FSV Mainz 05,SV Werder Bremen,AWAY_TEAM
-360,FC Augsburg,Eintracht Frankfurt,AWAY_TEAM
-361,RB Leipzig,1. FC Köln,DRAW
-362,Bayer 04 Leverkusen,FC Bayern München,AWAY_TEAM
-363,SC Freiburg,Hertha BSC,HOME_TEAM
-364,VfL Wolfsburg,VfB Stuttgart,HOME_TEAM
-365,1. FC Köln,FC Augsburg,AWAY_TEAM
-366,Eintracht Frankfurt,Bayer 04 Leverkusen,HOME_TEAM
-367,SV Werder Bremen,1. FC Union Berlin,AWAY_TEAM
-368,Arminia Bielefeld,Borussia Mönchengladbach,AWAY_TEAM
-369,TSG 1899 Hoffenheim,SC Freiburg,AWAY_TEAM
-370,Hertha BSC,FC Schalke 04,HOME_TEAM
-371,VfB Stuttgart,RB Leipzig,AWAY_TEAM
-372,Borussia Dortmund,VfL Wolfsburg,HOME_TEAM
-373,FC Bayern München,1. FSV Mainz 05,HOME_TEAM
-374,Borussia Mönchengladbach,FC Bayern München,HOME_TEAM
-375,FC Schalke 04,TSG 1899 Hoffenheim,HOME_TEAM
-376,Bayer 04 Leverkusen,SV Werder Bremen,DRAW
-377,SC Freiburg,1. FC Köln,HOME_TEAM
-378,1. FSV Mainz 05,Eintracht Frankfurt,AWAY_TEAM
-379,1. FC Union Berlin,VfL Wolfsburg,DRAW
-380,RB Leipzig,Borussia Dortmund,AWAY_TEAM
-381,FC Augsburg,VfB Stuttgart,AWAY_TEAM
-382,Arminia Bielefeld,Hertha BSC,HOME_TEAM
-383,1. FC Union Berlin,Bayer 04 Leverkusen,HOME_TEAM
-384,1. FC Köln,Hertha BSC,DRAW
-385,Borussia Dortmund,1. FSV Mainz 05,DRAW
-386,SV Werder Bremen,FC Augsburg,HOME_TEAM
-387,VfL Wolfsburg,RB Leipzig,DRAW
-388,TSG 1899 Hoffenheim,Arminia Bielefeld,DRAW
-389,VfB Stuttgart,Borussia Mönchengladbach,DRAW
-390,FC Bayern München,SC Freiburg,HOME_TEAM
-391,Eintracht Frankfurt,FC Schalke 04,HOME_TEAM
-392,Borussia Mönchengladbach,SV Werder Bremen,HOME_TEAM
-393,Hertha BSC,TSG 1899 Hoffenheim,AWAY_TEAM
-394,Bayer 04 Leverkusen,Borussia Dortmund,HOME_TEAM
-395,1. FSV Mainz 05,VfL Wolfsburg,AWAY_TEAM
-396,FC Schalke 04,1. FC Köln,AWAY_TEAM
-397,Arminia Bielefeld,VfB Stuttgart,HOME_TEAM
-398,SC Freiburg,Eintracht Frankfurt,DRAW
-399,FC Augsburg,FC Bayern München,AWAY_TEAM
-400,RB Leipzig,1. FC Union Berlin,HOME_TEAM
-401,Borussia Mönchengladbach,Borussia Dortmund,HOME_TEAM
-402,Arminia Bielefeld,Eintracht Frankfurt,AWAY_TEAM
-403,Bayer 04 Leverkusen,VfL Wolfsburg,AWAY_TEAM
-404,SC Freiburg,VfB Stuttgart,HOME_TEAM
-405,1. FSV Mainz 05,RB Leipzig,HOME_TEAM
-406,FC Augsburg,1. FC Union Berlin,HOME_TEAM
-407,Hertha BSC,SV Werder Bremen,AWAY_TEAM
-408,FC Schalke 04,FC Bayern München,AWAY_TEAM
-409,TSG 1899 Hoffenheim,1. FC Köln,HOME_TEAM
-410,VfB Stuttgart,1. FSV Mainz 05,HOME_TEAM
-411,Eintracht Frankfurt,Hertha BSC,HOME_TEAM
-412,Borussia Dortmund,FC Augsburg,HOME_TEAM
-413,SV Werder Bremen,FC Schalke 04,DRAW
-414,FC Bayern München,TSG 1899 Hoffenheim,HOME_TEAM
-415,1. FC Union Berlin,Borussia Mönchengladbach,DRAW
-416,RB Leipzig,Bayer 04 Leverkusen,HOME_TEAM
-417,1. FC Köln,Arminia Bielefeld,HOME_TEAM
-418,VfL Wolfsburg,SC Freiburg,HOME_TEAM
-419,Hertha BSC,FC Bayern München,AWAY_TEAM
-420,FC Schalke 04,RB Leipzig,AWAY_TEAM
-421,Bayer 04 Leverkusen,VfB Stuttgart,HOME_TEAM
-422,SC Freiburg,Borussia Dortmund,HOME_TEAM
-423,1. FSV Mainz 05,1. FC Union Berlin,HOME_TEAM
-424,FC Augsburg,VfL Wolfsburg,AWAY_TEAM
-425,Borussia Mönchengladbach,1. FC Köln,AWAY_TEAM
-426,TSG 1899 Hoffenheim,Eintracht Frankfurt,AWAY_TEAM
-427,RB Leipzig,FC Augsburg,HOME_TEAM
-428,Borussia Dortmund,TSG 1899 Hoffenheim,DRAW
-429,VfB Stuttgart,Hertha BSC,DRAW
-430,SV Werder Bremen,SC Freiburg,DRAW
-431,Bayer 04 Leverkusen,1. FSV Mainz 05,DRAW
-432,1. FC Union Berlin,FC Schalke 04,DRAW
-433,Eintracht Frankfurt,1. FC Köln,HOME_TEAM
-434,VfL Wolfsburg,Borussia Mönchengladbach,DRAW
-435,FC Bayern München,Arminia Bielefeld,DRAW
-436,Arminia Bielefeld,VfL Wolfsburg,AWAY_TEAM
-437,1. FC Köln,VfB Stuttgart,AWAY_TEAM
-438,Eintracht Frankfurt,FC Bayern München,HOME_TEAM
-439,Borussia Mönchengladbach,1. FSV Mainz 05,AWAY_TEAM
-440,SC Freiburg,1. FC Union Berlin,AWAY_TEAM
-441,FC Schalke 04,Borussia Dortmund,AWAY_TEAM
-442,FC Augsburg,Bayer 04 Leverkusen,DRAW
-443,Hertha BSC,RB Leipzig,AWAY_TEAM
-444,TSG 1899 Hoffenheim,SV Werder Bremen,HOME_TEAM
-445,ACF Fiorentina,Torino FC,HOME_TEAM
-446,Hellas Verona FC,AS Roma,HOME_TEAM
-447,Parma Calcio 1913,SSC Napoli,AWAY_TEAM
-448,Genoa CFC,FC Crotone,HOME_TEAM
-449,US Sassuolo Calcio,Cagliari Calcio,DRAW
-450,Juventus FC,UC Sampdoria,HOME_TEAM
-451,AC Milan,Bologna FC 1909,HOME_TEAM
-452,Torino FC,Atalanta BC,AWAY_TEAM
-453,UC Sampdoria,Benevento Calcio,AWAY_TEAM
-454,Cagliari Calcio,SS Lazio,AWAY_TEAM
-455,FC Internazionale Milano,ACF Fiorentina,HOME_TEAM
-456,Spezia Calcio,US Sassuolo Calcio,AWAY_TEAM
-457,Hellas Verona FC,Udinese Calcio,HOME_TEAM
-458,SSC Napoli,Genoa CFC,HOME_TEAM
-459,FC Crotone,AC Milan,AWAY_TEAM
-460,AS Roma,Juventus FC,DRAW
-461,Bologna FC 1909,Parma Calcio 1913,HOME_TEAM
-462,Udinese Calcio,Spezia Calcio,AWAY_TEAM
-463,Benevento Calcio,FC Internazionale Milano,AWAY_TEAM
-464,SS Lazio,Atalanta BC,AWAY_TEAM
-465,ACF Fiorentina,UC Sampdoria,AWAY_TEAM
-466,US Sassuolo Calcio,FC Crotone,HOME_TEAM
-467,Udinese Calcio,AS Roma,AWAY_TEAM
-468,Atalanta BC,Cagliari Calcio,HOME_TEAM
-469,SS Lazio,FC Internazionale Milano,DRAW
-470,Parma Calcio 1913,Hellas Verona FC,HOME_TEAM
-471,Benevento Calcio,Bologna FC 1909,HOME_TEAM
-472,AC Milan,Spezia Calcio,HOME_TEAM
-473,SSC Napoli,Atalanta BC,HOME_TEAM
-474,FC Internazionale Milano,AC Milan,AWAY_TEAM
-475,UC Sampdoria,SS Lazio,HOME_TEAM
-476,FC Crotone,Juventus FC,DRAW
-477,Bologna FC 1909,US Sassuolo Calcio,AWAY_TEAM
-478,Torino FC,Cagliari Calcio,AWAY_TEAM
-479,Spezia Calcio,ACF Fiorentina,DRAW
-480,Udinese Calcio,Parma Calcio 1913,HOME_TEAM
-481,AS Roma,Benevento Calcio,HOME_TEAM
-482,Hellas Verona FC,Genoa CFC,DRAW
-483,US Sassuolo Calcio,Torino FC,DRAW
-484,Atalanta BC,UC Sampdoria,AWAY_TEAM
-485,Genoa CFC,FC Internazionale Milano,AWAY_TEAM
-486,SS Lazio,Bologna FC 1909,HOME_TEAM
-487,Cagliari Calcio,FC Crotone,HOME_TEAM
-488,Parma Calcio 1913,Spezia Calcio,DRAW
-489,Benevento Calcio,SSC Napoli,AWAY_TEAM
-490,ACF Fiorentina,Udinese Calcio,HOME_TEAM
-491,Juventus FC,Hellas Verona FC,DRAW
-492,AC Milan,AS Roma,DRAW
-493,FC Crotone,Atalanta BC,AWAY_TEAM
-494,FC Internazionale Milano,Parma Calcio 1913,DRAW
-495,Bologna FC 1909,Cagliari Calcio,HOME_TEAM
-496,Udinese Calcio,AC Milan,AWAY_TEAM
-497,Torino FC,SS Lazio,AWAY_TEAM
-498,Spezia Calcio,Juventus FC,AWAY_TEAM
-499,SSC Napoli,US Sassuolo Calcio,AWAY_TEAM
-500,AS Roma,ACF Fiorentina,HOME_TEAM
-501,UC Sampdoria,Genoa CFC,DRAW
-502,Hellas Verona FC,Benevento Calcio,HOME_TEAM
-503,Genoa CFC,Torino FC,AWAY_TEAM
-504,US Sassuolo Calcio,Udinese Calcio,DRAW
-505,Cagliari Calcio,UC Sampdoria,HOME_TEAM
-506,Benevento Calcio,Spezia Calcio,AWAY_TEAM
-507,Parma Calcio 1913,ACF Fiorentina,DRAW
-508,SS Lazio,Juventus FC,DRAW
-509,Atalanta BC,FC Internazionale Milano,DRAW
-510,Torino FC,FC Crotone,DRAW
-511,Genoa CFC,AS Roma,AWAY_TEAM
-512,Bologna FC 1909,SSC Napoli,AWAY_TEAM
-513,AC Milan,Hellas Verona FC,DRAW
-514,FC Crotone,SS Lazio,AWAY_TEAM
-515,Spezia Calcio,Atalanta BC,DRAW
-516,Juventus FC,Cagliari Calcio,HOME_TEAM
-517,ACF Fiorentina,Benevento Calcio,AWAY_TEAM
-518,FC Internazionale Milano,Torino FC,HOME_TEAM
-519,AS Roma,Parma Calcio 1913,HOME_TEAM
-520,UC Sampdoria,Bologna FC 1909,AWAY_TEAM
-521,Hellas Verona FC,US Sassuolo Calcio,AWAY_TEAM
-522,Udinese Calcio,Genoa CFC,HOME_TEAM
-523,SSC Napoli,AC Milan,AWAY_TEAM
-524,US Sassuolo Calcio,FC Internazionale Milano,AWAY_TEAM
-525,Benevento Calcio,Juventus FC,DRAW
-526,Atalanta BC,Hellas Verona FC,AWAY_TEAM
-527,SS Lazio,Udinese Calcio,AWAY_TEAM
-528,AC Milan,ACF Fiorentina,HOME_TEAM
-529,Bologna FC 1909,FC Crotone,HOME_TEAM
-530,Cagliari Calcio,Spezia Calcio,DRAW
-531,SSC Napoli,AS Roma,HOME_TEAM
-532,Torino FC,UC Sampdoria,DRAW
-533,Genoa CFC,Parma Calcio 1913,AWAY_TEAM
-534,Spezia Calcio,SS Lazio,AWAY_TEAM
-535,Juventus FC,Torino FC,HOME_TEAM
-536,FC Internazionale Milano,Bologna FC 1909,HOME_TEAM
-537,Hellas Verona FC,Cagliari Calcio,DRAW
-538,AS Roma,US Sassuolo Calcio,DRAW
-539,Parma Calcio 1913,Benevento Calcio,DRAW
-540,FC Crotone,SSC Napoli,AWAY_TEAM
-541,UC Sampdoria,AC Milan,AWAY_TEAM
-542,ACF Fiorentina,Genoa CFC,DRAW
-543,US Sassuolo Calcio,Benevento Calcio,HOME_TEAM
-544,FC Crotone,Spezia Calcio,HOME_TEAM
-545,Torino FC,Udinese Calcio,AWAY_TEAM
-546,SS Lazio,Hellas Verona FC,AWAY_TEAM
-547,Cagliari Calcio,FC Internazionale Milano,AWAY_TEAM
-548,SSC Napoli,UC Sampdoria,HOME_TEAM
-549,Atalanta BC,ACF Fiorentina,HOME_TEAM
-550,Bologna FC 1909,AS Roma,AWAY_TEAM
-551,Genoa CFC,Juventus FC,AWAY_TEAM
-552,AC Milan,Parma Calcio 1913,DRAW
-553,Udinese Calcio,FC Crotone,DRAW
-554,Benevento Calcio,SS Lazio,DRAW
-555,Juventus FC,Atalanta BC,DRAW
-556,FC Internazionale Milano,SSC Napoli,HOME_TEAM
-557,ACF Fiorentina,US Sassuolo Calcio,DRAW
-558,Parma Calcio 1913,Cagliari Calcio,DRAW
-559,Genoa CFC,AC Milan,DRAW
-560,Spezia Calcio,Bologna FC 1909,DRAW
-561,Hellas Verona FC,UC Sampdoria,AWAY_TEAM
-562,AS Roma,Torino FC,HOME_TEAM
-563,ACF Fiorentina,Hellas Verona FC,DRAW
-564,UC Sampdoria,FC Crotone,HOME_TEAM
-565,Parma Calcio 1913,Juventus FC,AWAY_TEAM
-566,Torino FC,Bologna FC 1909,DRAW
-567,FC Internazionale Milano,Spezia Calcio,HOME_TEAM
-568,Cagliari Calcio,Udinese Calcio,DRAW
-569,US Sassuolo Calcio,AC Milan,AWAY_TEAM
-570,Benevento Calcio,Genoa CFC,HOME_TEAM
-571,Atalanta BC,AS Roma,HOME_TEAM
-572,SS Lazio,SSC Napoli,HOME_TEAM
-573,FC Crotone,Parma Calcio 1913,HOME_TEAM
-574,Juventus FC,ACF Fiorentina,AWAY_TEAM
-575,Hellas Verona FC,FC Internazionale Milano,AWAY_TEAM
-576,SSC Napoli,Torino FC,DRAW
-577,AS Roma,Cagliari Calcio,HOME_TEAM
-578,AC Milan,SS Lazio,HOME_TEAM
-579,Udinese Calcio,Benevento Calcio,AWAY_TEAM
-580,UC Sampdoria,US Sassuolo Calcio,AWAY_TEAM
-581,Bologna FC 1909,Atalanta BC,DRAW
-582,Spezia Calcio,Genoa CFC,AWAY_TEAM
-583,FC Internazionale Milano,FC Crotone,HOME_TEAM
-584,ACF Fiorentina,Bologna FC 1909,DRAW
-585,AS Roma,UC Sampdoria,HOME_TEAM
-586,Parma Calcio 1913,Torino FC,AWAY_TEAM
-587,Atalanta BC,US Sassuolo Calcio,HOME_TEAM
-588,Cagliari Calcio,SSC Napoli,AWAY_TEAM
-589,Genoa CFC,SS Lazio,DRAW
-590,Spezia Calcio,Hellas Verona FC,AWAY_TEAM
-591,Benevento Calcio,AC Milan,AWAY_TEAM
-592,Juventus FC,Udinese Calcio,HOME_TEAM
-593,Cagliari Calcio,Benevento Calcio,AWAY_TEAM
-594,SS Lazio,ACF Fiorentina,HOME_TEAM
-595,Atalanta BC,Parma Calcio 1913,HOME_TEAM
-596,UC Sampdoria,FC Internazionale Milano,HOME_TEAM
-597,Torino FC,Hellas Verona FC,DRAW
-598,Bologna FC 1909,Udinese Calcio,DRAW
-599,US Sassuolo Calcio,Genoa CFC,HOME_TEAM
-600,FC Crotone,AS Roma,AWAY_TEAM
-601,SSC Napoli,Spezia Calcio,AWAY_TEAM
-602,AC Milan,Juventus FC,AWAY_TEAM
-603,Benevento Calcio,Atalanta BC,AWAY_TEAM
-604,Genoa CFC,Bologna FC 1909,HOME_TEAM
-605,AC Milan,Torino FC,HOME_TEAM
-606,AS Roma,FC Internazionale Milano,DRAW
-607,Parma Calcio 1913,SS Lazio,AWAY_TEAM
-608,Udinese Calcio,SSC Napoli,AWAY_TEAM
-609,Hellas Verona FC,FC Crotone,HOME_TEAM
-610,ACF Fiorentina,Cagliari Calcio,HOME_TEAM
-611,Juventus FC,US Sassuolo Calcio,HOME_TEAM
-612,Spezia Calcio,UC Sampdoria,HOME_TEAM
-613,SS Lazio,AS Roma,HOME_TEAM
-614,Bologna FC 1909,Hellas Verona FC,HOME_TEAM
-615,Torino FC,Spezia Calcio,DRAW
-616,UC Sampdoria,Udinese Calcio,HOME_TEAM
-617,SSC Napoli,ACF Fiorentina,HOME_TEAM
-618,US Sassuolo Calcio,Parma Calcio 1913,DRAW
-619,FC Crotone,Benevento Calcio,HOME_TEAM
-620,Atalanta BC,Genoa CFC,DRAW
-621,FC Internazionale Milano,Juventus FC,HOME_TEAM
-622,Cagliari Calcio,AC Milan,AWAY_TEAM
-623,Udinese Calcio,Atalanta BC,DRAW
-624,Benevento Calcio,Torino FC,DRAW
-625,AS Roma,Spezia Calcio,HOME_TEAM
-626,AC Milan,Atalanta BC,AWAY_TEAM
-627,Udinese Calcio,FC Internazionale Milano,DRAW
-628,ACF Fiorentina,FC Crotone,HOME_TEAM
-629,Juventus FC,Bologna FC 1909,HOME_TEAM
-630,Genoa CFC,Cagliari Calcio,HOME_TEAM
-631,Hellas Verona FC,SSC Napoli,HOME_TEAM
-632,SS Lazio,US Sassuolo Calcio,HOME_TEAM
-633,Parma Calcio 1913,UC Sampdoria,AWAY_TEAM
-634,Torino FC,ACF Fiorentina,DRAW
-635,Bologna FC 1909,AC Milan,AWAY_TEAM
-636,UC Sampdoria,Juventus FC,AWAY_TEAM
-637,FC Internazionale Milano,Benevento Calcio,HOME_TEAM
-638,Spezia Calcio,Udinese Calcio,AWAY_TEAM
-639,Atalanta BC,SS Lazio,AWAY_TEAM
-640,Cagliari Calcio,US Sassuolo Calcio,DRAW
-641,FC Crotone,Genoa CFC,AWAY_TEAM
-642,SSC Napoli,Parma Calcio 1913,HOME_TEAM
-643,AS Roma,Hellas Verona FC,HOME_TEAM
-644,ACF Fiorentina,FC Internazionale Milano,AWAY_TEAM
-645,Atalanta BC,Torino FC,DRAW
-646,US Sassuolo Calcio,Spezia Calcio,AWAY_TEAM
-647,Juventus FC,AS Roma,HOME_TEAM
-648,Genoa CFC,SSC Napoli,HOME_TEAM
-649,Benevento Calcio,UC Sampdoria,DRAW
-650,AC Milan,FC Crotone,HOME_TEAM
-651,Udinese Calcio,Hellas Verona FC,HOME_TEAM
-652,Parma Calcio 1913,Bologna FC 1909,AWAY_TEAM
-653,SS Lazio,Cagliari Calcio,HOME_TEAM
-654,Bologna FC 1909,Benevento Calcio,DRAW
-655,Torino FC,Genoa CFC,DRAW
-656,SSC Napoli,Juventus FC,HOME_TEAM
-657,Spezia Calcio,AC Milan,HOME_TEAM
-658,AS Roma,Udinese Calcio,HOME_TEAM
-659,UC Sampdoria,ACF Fiorentina,HOME_TEAM
-660,Cagliari Calcio,Atalanta BC,AWAY_TEAM
-661,FC Crotone,US Sassuolo Calcio,AWAY_TEAM
-662,FC Internazionale Milano,SS Lazio,HOME_TEAM
-663,Hellas Verona FC,Parma Calcio 1913,HOME_TEAM
-664,ACF Fiorentina,Spezia Calcio,HOME_TEAM
-665,Cagliari Calcio,Torino FC,AWAY_TEAM
-666,SS Lazio,UC Sampdoria,HOME_TEAM
-667,Genoa CFC,Hellas Verona FC,DRAW
-668,US Sassuolo Calcio,Bologna FC 1909,DRAW
-669,Parma Calcio 1913,Udinese Calcio,DRAW
-670,AC Milan,FC Internazionale Milano,AWAY_TEAM
-671,Atalanta BC,SSC Napoli,HOME_TEAM
-672,Benevento Calcio,AS Roma,DRAW
-673,Juventus FC,FC Crotone,HOME_TEAM
-674,SD Eibar,RC Celta de Vigo,DRAW
-675,Granada CF,Athletic Club,HOME_TEAM
-676,Cádiz CF,CA Osasuna,AWAY_TEAM
-677,Deportivo Alavés,Real Betis Balompié,AWAY_TEAM
-678,Real Valladolid CF,Real Sociedad de Fútbol,DRAW
-679,Villarreal CF,SD Huesca,DRAW
-680,Valencia CF,Levante UD,HOME_TEAM
-681,Villarreal CF,SD Eibar,HOME_TEAM
-682,Getafe CF,CA Osasuna,HOME_TEAM
-683,RC Celta de Vigo,Valencia CF,HOME_TEAM
-684,SD Huesca,Cádiz CF,AWAY_TEAM
-685,Real Betis Balompié,Real Valladolid CF,HOME_TEAM
-686,Granada CF,Deportivo Alavés,HOME_TEAM
-687,Real Sociedad de Fútbol,Real Madrid CF,DRAW
-688,Deportivo Alavés,Getafe CF,DRAW
-689,Valencia CF,SD Huesca,DRAW
-690,Elche CF,Real Sociedad de Fútbol,AWAY_TEAM
-691,Real Betis Balompié,Real Madrid CF,AWAY_TEAM
-692,CA Osasuna,Levante UD,AWAY_TEAM
-693,SD Eibar,Athletic Club,AWAY_TEAM
-694,Club Atlético de Madrid,Granada CF,HOME_TEAM
-695,Real Valladolid CF,RC Celta de Vigo,DRAW
-696,Cádiz CF,Sevilla FC,AWAY_TEAM
-697,FC Barcelona,Villarreal CF,HOME_TEAM
-698,Real Sociedad de Fútbol,Valencia CF,AWAY_TEAM
-699,Getafe CF,Real Betis Balompié,HOME_TEAM
-700,Villarreal CF,Deportivo Alavés,HOME_TEAM
-701,SD Huesca,Club Atlético de Madrid,DRAW
-702,Real Madrid CF,Real Valladolid CF,HOME_TEAM
-703,SD Eibar,Elche CF,AWAY_TEAM
-704,Sevilla FC,Levante UD,HOME_TEAM
-705,Athletic Club,Cádiz CF,AWAY_TEAM
-706,RC Celta de Vigo,FC Barcelona,AWAY_TEAM
-707,Real Valladolid CF,SD Eibar,AWAY_TEAM
-708,Club Atlético de Madrid,Villarreal CF,DRAW
-709,Real Sociedad de Fútbol,Getafe CF,HOME_TEAM
-710,Elche CF,SD Huesca,DRAW
-711,Valencia CF,Real Betis Balompié,AWAY_TEAM
-712,CA Osasuna,RC Celta de Vigo,HOME_TEAM
-713,Deportivo Alavés,Athletic Club,HOME_TEAM
-714,Levante UD,Real Madrid CF,AWAY_TEAM
-715,Cádiz CF,Granada CF,DRAW
-716,FC Barcelona,Sevilla FC,DRAW
-717,Granada CF,Sevilla FC,HOME_TEAM
-718,RC Celta de Vigo,Club Atlético de Madrid,AWAY_TEAM
-719,Real Madrid CF,Cádiz CF,AWAY_TEAM
-720,Getafe CF,FC Barcelona,HOME_TEAM
-721,SD Eibar,CA Osasuna,DRAW
-722,Athletic Club,Levante UD,HOME_TEAM
-723,Villarreal CF,Valencia CF,HOME_TEAM
-724,SD Huesca,Real Valladolid CF,DRAW
-725,Deportivo Alavés,Elche CF,AWAY_TEAM
-726,Real Betis Balompié,Real Sociedad de Fútbol,AWAY_TEAM
-727,Elche CF,Valencia CF,HOME_TEAM
-728,FC Barcelona,Real Madrid CF,AWAY_TEAM
-729,CA Osasuna,Athletic Club,HOME_TEAM
-730,Sevilla FC,SD Eibar,AWAY_TEAM
-731,Club Atlético de Madrid,Real Betis Balompié,HOME_TEAM
-732,Real Valladolid CF,Deportivo Alavés,AWAY_TEAM
-733,Cádiz CF,Villarreal CF,DRAW
-734,Getafe CF,Granada CF,AWAY_TEAM
-735,Real Sociedad de Fútbol,SD Huesca,HOME_TEAM
-736,Levante UD,RC Celta de Vigo,DRAW
-737,SD Eibar,Cádiz CF,AWAY_TEAM
-738,Real Madrid CF,SD Huesca,HOME_TEAM
-739,Athletic Club,Sevilla FC,HOME_TEAM
-740,CA Osasuna,Club Atlético de Madrid,AWAY_TEAM
-741,Deportivo Alavés,FC Barcelona,DRAW
-742,Real Betis Balompié,Elche CF,HOME_TEAM
-743,RC Celta de Vigo,Real Sociedad de Fútbol,AWAY_TEAM
-744,Granada CF,Levante UD,DRAW
-745,Valencia CF,Getafe CF,DRAW
-746,Villarreal CF,Real Valladolid CF,HOME_TEAM
-747,Elche CF,RC Celta de Vigo,DRAW
-748,SD Huesca,SD Eibar,DRAW
-749,FC Barcelona,Real Betis Balompié,HOME_TEAM
-750,Sevilla FC,CA Osasuna,HOME_TEAM
-751,Club Atlético de Madrid,Cádiz CF,HOME_TEAM
-752,Getafe CF,Villarreal CF,AWAY_TEAM
-753,Real Sociedad de Fútbol,Granada CF,HOME_TEAM
-754,Levante UD,Deportivo Alavés,DRAW
-755,Real Valladolid CF,Athletic Club,HOME_TEAM
-756,Valencia CF,Real Madrid CF,HOME_TEAM
-757,CA Osasuna,SD Huesca,DRAW
-758,Levante UD,Elche CF,DRAW
-759,Villarreal CF,Real Madrid CF,DRAW
-760,Sevilla FC,RC Celta de Vigo,HOME_TEAM
-761,Club Atlético de Madrid,FC Barcelona,HOME_TEAM
-762,SD Eibar,Getafe CF,DRAW
-763,Cádiz CF,Real Sociedad de Fútbol,AWAY_TEAM
-764,Granada CF,Real Valladolid CF,AWAY_TEAM
-765,Deportivo Alavés,Valencia CF,DRAW
-766,Athletic Club,Real Betis Balompié,HOME_TEAM
-767,Real Valladolid CF,Levante UD,DRAW
-768,Elche CF,Cádiz CF,DRAW
-769,Valencia CF,Club Atlético de Madrid,AWAY_TEAM
-770,SD Huesca,Sevilla FC,AWAY_TEAM
-771,Real Madrid CF,Deportivo Alavés,AWAY_TEAM
-772,FC Barcelona,CA Osasuna,HOME_TEAM
-773,Getafe CF,Athletic Club,DRAW
-774,RC Celta de Vigo,Granada CF,HOME_TEAM
-775,Real Sociedad de Fútbol,Villarreal CF,DRAW
-776,Real Betis Balompié,SD Eibar,AWAY_TEAM
-777,Athletic Club,RC Celta de Vigo,AWAY_TEAM
-778,Levante UD,Getafe CF,HOME_TEAM
-779,Sevilla FC,Real Madrid CF,AWAY_TEAM
-780,Club Atlético de Madrid,Real Valladolid CF,HOME_TEAM
-781,Cádiz CF,FC Barcelona,HOME_TEAM
-782,Granada CF,SD Huesca,DRAW
-783,CA Osasuna,Real Betis Balompié,AWAY_TEAM
-784,Villarreal CF,Elche CF,DRAW
-785,Deportivo Alavés,Real Sociedad de Fútbol,DRAW
-786,SD Eibar,Valencia CF,DRAW
-787,Real Valladolid CF,CA Osasuna,HOME_TEAM
-788,Valencia CF,Athletic Club,DRAW
-789,Getafe CF,Sevilla FC,AWAY_TEAM
-790,SD Huesca,Deportivo Alavés,HOME_TEAM
-791,Real Madrid CF,Club Atlético de Madrid,HOME_TEAM
-792,Real Sociedad de Fútbol,SD Eibar,DRAW
-793,Real Betis Balompié,Villarreal CF,DRAW
-794,Elche CF,Granada CF,AWAY_TEAM
-795,FC Barcelona,Levante UD,HOME_TEAM
-796,RC Celta de Vigo,Cádiz CF,HOME_TEAM
-797,Real Madrid CF,Athletic Club,HOME_TEAM
-798,FC Barcelona,Real Sociedad de Fútbol,HOME_TEAM
-799,Athletic Club,SD Huesca,HOME_TEAM
-800,Club Atlético de Madrid,Elche CF,HOME_TEAM
-801,FC Barcelona,Valencia CF,DRAW
-802,Levante UD,Real Sociedad de Fútbol,HOME_TEAM
-803,CA Osasuna,Villarreal CF,AWAY_TEAM
-804,Sevilla FC,Real Valladolid CF,DRAW
-805,RC Celta de Vigo,Deportivo Alavés,HOME_TEAM
-806,Granada CF,Real Betis Balompié,HOME_TEAM
-807,Cádiz CF,Getafe CF,AWAY_TEAM
-808,SD Eibar,Real Madrid CF,AWAY_TEAM
-809,Valencia CF,Sevilla FC,AWAY_TEAM
-810,Elche CF,CA Osasuna,DRAW
-811,Real Sociedad de Fútbol,Club Atlético de Madrid,AWAY_TEAM
-812,SD Huesca,Levante UD,DRAW
-813,Real Valladolid CF,FC Barcelona,AWAY_TEAM
-814,Villarreal CF,Athletic Club,DRAW
-815,Getafe CF,RC Celta de Vigo,DRAW
-816,Real Madrid CF,Granada CF,HOME_TEAM
-817,Real Betis Balompié,Cádiz CF,HOME_TEAM
-818,Deportivo Alavés,SD Eibar,HOME_TEAM
-819,Sevilla FC,Villarreal CF,HOME_TEAM
-820,FC Barcelona,SD Eibar,DRAW
-821,Cádiz CF,Real Valladolid CF,DRAW
-822,Levante UD,Real Betis Balompié,HOME_TEAM
-823,Granada CF,Valencia CF,HOME_TEAM
-824,RC Celta de Vigo,SD Huesca,HOME_TEAM
-825,Club Atlético de Madrid,Getafe CF,HOME_TEAM
-826,Elche CF,Real Madrid CF,DRAW
-827,Athletic Club,Real Sociedad de Fútbol,AWAY_TEAM
-828,CA Osasuna,Deportivo Alavés,DRAW
-829,Villarreal CF,Levante UD,HOME_TEAM
-830,Real Betis Balompié,Sevilla FC,DRAW
-831,Getafe CF,Real Valladolid CF,AWAY_TEAM
-832,Real Madrid CF,RC Celta de Vigo,HOME_TEAM
-833,Athletic Club,Elche CF,HOME_TEAM
-834,Deportivo Alavés,Club Atlético de Madrid,AWAY_TEAM
-835,Real Sociedad de Fútbol,CA Osasuna,DRAW
-836,SD Eibar,Granada CF,HOME_TEAM
-837,SD Huesca,FC Barcelona,AWAY_TEAM
-838,Valencia CF,Cádiz CF,DRAW
-839,Athletic Club,FC Barcelona,AWAY_TEAM
-840,RC Celta de Vigo,Villarreal CF,AWAY_TEAM
-841,Sevilla FC,Real Sociedad de Fútbol,HOME_TEAM
-842,Granada CF,FC Barcelona,AWAY_TEAM
-843,CA Osasuna,Real Madrid CF,DRAW
-844,Levante UD,SD Eibar,HOME_TEAM
-845,Cádiz CF,Deportivo Alavés,HOME_TEAM
-846,Real Valladolid CF,Valencia CF,AWAY_TEAM
-847,Elche CF,Getafe CF,AWAY_TEAM
-848,SD Huesca,Real Betis Balompié,AWAY_TEAM
-849,Granada CF,CA Osasuna,HOME_TEAM
-850,Club Atlético de Madrid,Sevilla FC,HOME_TEAM
-851,Real Valladolid CF,Elche CF,DRAW
-852,Cádiz CF,Levante UD,DRAW
-853,Deportivo Alavés,Sevilla FC,AWAY_TEAM
-854,Getafe CF,SD Huesca,HOME_TEAM
-855,Real Betis Balompié,RC Celta de Vigo,HOME_TEAM
-856,Villarreal CF,Granada CF,DRAW
-857,Valencia CF,CA Osasuna,DRAW
-858,SD Eibar,Club Atlético de Madrid,AWAY_TEAM
-859,Levante UD,Real Valladolid CF,DRAW
-860,SD Huesca,Villarreal CF,DRAW
-861,Sevilla FC,Cádiz CF,HOME_TEAM
-862,Real Sociedad de Fútbol,Real Betis Balompié,DRAW
-863,Deportivo Alavés,Real Madrid CF,AWAY_TEAM
-864,CA Osasuna,Granada CF,HOME_TEAM
-865,Elche CF,FC Barcelona,AWAY_TEAM
-866,RC Celta de Vigo,SD Eibar,DRAW
-867,Club Atlético de Madrid,Valencia CF,HOME_TEAM
-868,Athletic Club,Getafe CF,HOME_TEAM
-869,Real Valladolid CF,SD Huesca,AWAY_TEAM
-870,SD Eibar,Sevilla FC,AWAY_TEAM
-871,Real Madrid CF,Levante UD,AWAY_TEAM
-872,Valencia CF,Elche CF,HOME_TEAM
-873,Villarreal CF,Real Sociedad de Fútbol,DRAW
-874,Getafe CF,Deportivo Alavés,DRAW
-875,Cádiz CF,Club Atlético de Madrid,AWAY_TEAM
-876,Granada CF,RC Celta de Vigo,DRAW
-877,FC Barcelona,Athletic Club,HOME_TEAM
-878,Real Betis Balompié,CA Osasuna,HOME_TEAM
-879,Deportivo Alavés,Real Valladolid CF,HOME_TEAM
-880,Levante UD,Granada CF,DRAW
-881,SD Huesca,Real Madrid CF,AWAY_TEAM
-882,Elche CF,Villarreal CF,DRAW
-883,Sevilla FC,Getafe CF,HOME_TEAM
-884,Real Sociedad de Fútbol,Cádiz CF,HOME_TEAM
-885,Athletic Club,Valencia CF,DRAW
-886,CA Osasuna,SD Eibar,HOME_TEAM
-887,Real Betis Balompié,FC Barcelona,AWAY_TEAM
-888,Club Atlético de Madrid,RC Celta de Vigo,DRAW
-889,Real Madrid CF,Getafe CF,HOME_TEAM
-890,RC Celta de Vigo,Elche CF,HOME_TEAM
-891,Granada CF,Club Atlético de Madrid,AWAY_TEAM
-892,Sevilla FC,SD Huesca,HOME_TEAM
-893,SD Eibar,Real Valladolid CF,DRAW
-894,FC Barcelona,Deportivo Alavés,HOME_TEAM
-895,Getafe CF,Real Sociedad de Fútbol,AWAY_TEAM
-896,Real Madrid CF,Valencia CF,HOME_TEAM
-897,Levante UD,CA Osasuna,AWAY_TEAM
-898,Villarreal CF,Real Betis Balompié,AWAY_TEAM
-899,Cádiz CF,Athletic Club,AWAY_TEAM
-900,Levante UD,Club Atlético de Madrid,DRAW
-901,Real Betis Balompié,Getafe CF,HOME_TEAM
-902,Elche CF,SD Eibar,HOME_TEAM
-903,Club Atlético de Madrid,Levante UD,AWAY_TEAM
-904,Valencia CF,RC Celta de Vigo,HOME_TEAM
-905,Real Valladolid CF,Real Madrid CF,AWAY_TEAM
-906,FC Barcelona,Cádiz CF,DRAW
-907,Real Sociedad de Fútbol,Deportivo Alavés,HOME_TEAM
-908,SD Huesca,Granada CF,HOME_TEAM
-909,Athletic Club,Villarreal CF,DRAW
-910,CA Osasuna,Sevilla FC,AWAY_TEAM
-911,FC Barcelona,Elche CF,HOME_TEAM
-912,FC Girondins de Bordeaux,FC Nantes,DRAW
-913,Dijon Football Côte d'Or,Angers SCO,AWAY_TEAM
-914,Lille OSC,Stade Rennais FC 1901,DRAW
-915,AS Monaco FC,Stade de Reims,DRAW
-916,FC Lorient,RC Strasbourg Alsace,HOME_TEAM
-917,Nîmes Olympique,Stade Brestois 29,HOME_TEAM
-918,OGC Nice,Racing Club de Lens,HOME_TEAM
-919,Olympique Lyonnais,Dijon Football Côte d'Or,HOME_TEAM
-920,Stade Rennais FC 1901,Montpellier HSC,HOME_TEAM
-921,RC Strasbourg Alsace,OGC Nice,AWAY_TEAM
-922,Stade de Reims,Lille OSC,AWAY_TEAM
-923,AS Saint-Étienne,FC Lorient,HOME_TEAM
-924,Angers SCO,FC Girondins de Bordeaux,AWAY_TEAM
-925,FC Nantes,Nîmes Olympique,HOME_TEAM
-926,FC Metz,AS Monaco FC,AWAY_TEAM
-927,Stade Brestois 29,Olympique de Marseille,AWAY_TEAM
-928,Racing Club de Lens,Paris Saint-Germain FC,HOME_TEAM
-929,FC Girondins de Bordeaux,Olympique Lyonnais,DRAW
-930,Montpellier HSC,OGC Nice,HOME_TEAM
-931,AS Saint-Étienne,RC Strasbourg Alsace,HOME_TEAM
-932,Lille OSC,FC Metz,HOME_TEAM
-933,FC Lorient,Racing Club de Lens,AWAY_TEAM
-934,Angers SCO,Stade de Reims,HOME_TEAM
-935,Dijon Football Côte d'Or,Stade Brestois 29,AWAY_TEAM
-936,Nîmes Olympique,Stade Rennais FC 1901,AWAY_TEAM
-937,AS Monaco FC,FC Nantes,HOME_TEAM
-938,Paris Saint-Germain FC,Olympique de Marseille,AWAY_TEAM
-939,Montpellier HSC,Olympique Lyonnais,HOME_TEAM
-940,Paris Saint-Germain FC,FC Metz,HOME_TEAM
-941,Olympique de Marseille,AS Saint-Étienne,AWAY_TEAM
-942,Olympique Lyonnais,Nîmes Olympique,DRAW
-943,Racing Club de Lens,FC Girondins de Bordeaux,HOME_TEAM
-944,Stade Rennais FC 1901,AS Monaco FC,HOME_TEAM
-945,OGC Nice,Paris Saint-Germain FC,AWAY_TEAM
-946,Montpellier HSC,Angers SCO,HOME_TEAM
-947,Stade Brestois 29,FC Lorient,HOME_TEAM
-948,FC Metz,Stade de Reims,HOME_TEAM
-949,RC Strasbourg Alsace,Dijon Football Côte d'Or,HOME_TEAM
-950,FC Nantes,AS Saint-Étienne,DRAW
-951,Olympique de Marseille,Lille OSC,DRAW
-952,Lille OSC,FC Nantes,HOME_TEAM
-953,AS Saint-Étienne,Stade Rennais FC 1901,AWAY_TEAM
-954,Olympique de Marseille,FC Metz,DRAW
-955,FC Girondins de Bordeaux,OGC Nice,DRAW
-956,Angers SCO,Stade Brestois 29,HOME_TEAM
-957,AS Monaco FC,RC Strasbourg Alsace,HOME_TEAM
-958,Dijon Football Côte d'Or,Montpellier HSC,DRAW
-959,Nîmes Olympique,Racing Club de Lens,DRAW
-960,FC Lorient,Olympique Lyonnais,DRAW
-961,Stade de Reims,Paris Saint-Germain FC,AWAY_TEAM
-962,Paris Saint-Germain FC,Angers SCO,HOME_TEAM
-963,Racing Club de Lens,AS Saint-Étienne,HOME_TEAM
-964,OGC Nice,FC Nantes,HOME_TEAM
-965,Montpellier HSC,Nîmes Olympique,AWAY_TEAM
-966,FC Girondins de Bordeaux,Dijon Football Côte d'Or,HOME_TEAM
-967,Stade Brestois 29,AS Monaco FC,HOME_TEAM
-968,FC Metz,FC Lorient,HOME_TEAM
-969,RC Strasbourg Alsace,Lille OSC,AWAY_TEAM
-970,Stade Rennais FC 1901,Stade de Reims,DRAW
-971,Olympique Lyonnais,Olympique de Marseille,DRAW
-972,Dijon Football Côte d'Or,Stade Rennais FC 1901,DRAW
-973,Nîmes Olympique,Paris Saint-Germain FC,AWAY_TEAM
-974,Stade de Reims,FC Lorient,AWAY_TEAM
-975,Olympique de Marseille,FC Girondins de Bordeaux,HOME_TEAM
-976,RC Strasbourg Alsace,Olympique Lyonnais,AWAY_TEAM
-977,Angers SCO,FC Metz,DRAW
-978,FC Nantes,Stade Brestois 29,HOME_TEAM
-979,AS Monaco FC,Montpellier HSC,DRAW
-980,AS Saint-Étienne,OGC Nice,AWAY_TEAM
-981,Lille OSC,Racing Club de Lens,HOME_TEAM
-982,Stade Rennais FC 1901,Angers SCO,AWAY_TEAM
-983,FC Lorient,Olympique de Marseille,AWAY_TEAM
-984,Paris Saint-Germain FC,Dijon Football Côte d'Or,HOME_TEAM
-985,Montpellier HSC,Stade de Reims,AWAY_TEAM
-986,FC Girondins de Bordeaux,Nîmes Olympique,HOME_TEAM
-987,Stade Brestois 29,RC Strasbourg Alsace,AWAY_TEAM
-988,FC Metz,AS Saint-Étienne,HOME_TEAM
-989,OGC Nice,Lille OSC,DRAW
-990,Olympique Lyonnais,AS Monaco FC,HOME_TEAM
-991,Stade Rennais FC 1901,Stade Brestois 29,HOME_TEAM
-992,FC Nantes,Paris Saint-Germain FC,AWAY_TEAM
-993,AS Saint-Étienne,Montpellier HSC,AWAY_TEAM
-994,Stade de Reims,RC Strasbourg Alsace,HOME_TEAM
-995,Angers SCO,OGC Nice,AWAY_TEAM
-996,Dijon Football Côte d'Or,FC Lorient,DRAW
-997,Nîmes Olympique,FC Metz,AWAY_TEAM
-998,AS Monaco FC,FC Girondins de Bordeaux,HOME_TEAM
-999,Lille OSC,Olympique Lyonnais,DRAW
-1000,RC Strasbourg Alsace,Olympique de Marseille,AWAY_TEAM
-1001,FC Girondins de Bordeaux,Montpellier HSC,AWAY_TEAM
-1002,Paris Saint-Germain FC,Stade Rennais FC 1901,HOME_TEAM
-1003,Stade Brestois 29,Lille OSC,HOME_TEAM
-1004,FC Lorient,FC Nantes,AWAY_TEAM
-1005,Racing Club de Lens,Stade de Reims,DRAW
-1006,Nîmes Olympique,Angers SCO,AWAY_TEAM
-1007,FC Metz,Dijon Football Côte d'Or,DRAW
-1008,OGC Nice,AS Monaco FC,AWAY_TEAM
-1009,Olympique Lyonnais,AS Saint-Étienne,HOME_TEAM
-1010,Stade Rennais FC 1901,FC Girondins de Bordeaux,AWAY_TEAM
-1011,AS Monaco FC,Paris Saint-Germain FC,HOME_TEAM
-1012,Stade Brestois 29,AS Saint-Étienne,HOME_TEAM
-1013,FC Nantes,FC Metz,DRAW
-1014,Dijon Football Côte d'Or,Racing Club de Lens,AWAY_TEAM
-1015,Montpellier HSC,RC Strasbourg Alsace,HOME_TEAM
-1016,Stade de Reims,Nîmes Olympique,AWAY_TEAM
-1017,Angers SCO,Olympique Lyonnais,AWAY_TEAM
-1018,Lille OSC,FC Lorient,HOME_TEAM
-1019,Racing Club de Lens,FC Nantes,DRAW
-1020,RC Strasbourg Alsace,Stade Rennais FC 1901,DRAW
-1021,Olympique de Marseille,FC Nantes,HOME_TEAM
-1022,Paris Saint-Germain FC,FC Girondins de Bordeaux,DRAW
-1023,Olympique Lyonnais,Stade de Reims,HOME_TEAM
-1024,FC Lorient,Montpellier HSC,AWAY_TEAM
-1025,AS Monaco FC,Nîmes Olympique,HOME_TEAM
-1026,Racing Club de Lens,Angers SCO,AWAY_TEAM
-1027,FC Metz,Stade Brestois 29,AWAY_TEAM
-1028,OGC Nice,Dijon Football Côte d'Or,AWAY_TEAM
-1029,AS Saint-Étienne,Lille OSC,DRAW
-1030,Nîmes Olympique,Olympique de Marseille,AWAY_TEAM
-1031,Stade Rennais FC 1901,Racing Club de Lens,AWAY_TEAM
-1032,Montpellier HSC,Paris Saint-Germain FC,AWAY_TEAM
-1033,Lille OSC,AS Monaco FC,HOME_TEAM
-1034,FC Girondins de Bordeaux,Stade Brestois 29,HOME_TEAM
-1035,Angers SCO,FC Lorient,HOME_TEAM
-1036,FC Nantes,RC Strasbourg Alsace,AWAY_TEAM
-1037,Dijon Football Côte d'Or,AS Saint-Étienne,DRAW
-1038,Stade de Reims,OGC Nice,DRAW
-1039,FC Metz,Olympique Lyonnais,AWAY_TEAM
-1040,AS Saint-Étienne,Angers SCO,DRAW
-1041,Olympique de Marseille,AS Monaco FC,HOME_TEAM
-1042,Racing Club de Lens,Montpellier HSC,AWAY_TEAM
-1043,OGC Nice,Stade Rennais FC 1901,AWAY_TEAM
-1044,Stade Brestois 29,Stade de Reims,HOME_TEAM
-1045,FC Lorient,Nîmes Olympique,HOME_TEAM
-1046,FC Nantes,Dijon Football Côte d'Or,DRAW
-1047,RC Strasbourg Alsace,FC Metz,DRAW
-1048,Lille OSC,FC Girondins de Bordeaux,HOME_TEAM
-1049,Paris Saint-Germain FC,Olympique Lyonnais,AWAY_TEAM
-1050,Montpellier HSC,FC Metz,AWAY_TEAM
-1051,Stade de Reims,FC Nantes,HOME_TEAM
-1052,Angers SCO,RC Strasbourg Alsace,AWAY_TEAM
-1053,Dijon Football Côte d'Or,Lille OSC,AWAY_TEAM
-1054,Nîmes Olympique,OGC Nice,AWAY_TEAM
-1055,Paris Saint-Germain FC,FC Lorient,HOME_TEAM
-1056,Olympique Lyonnais,Stade Brestois 29,DRAW
-1057,FC Girondins de Bordeaux,AS Saint-Étienne,AWAY_TEAM
-1058,Stade Rennais FC 1901,Olympique de Marseille,HOME_TEAM
-1059,AS Monaco FC,Racing Club de Lens,AWAY_TEAM
-1060,FC Metz,Racing Club de Lens,HOME_TEAM
-1061,Olympique de Marseille,Stade de Reims,DRAW
-1062,OGC Nice,Olympique Lyonnais,AWAY_TEAM
-1063,Stade Brestois 29,Montpellier HSC,DRAW
-1064,AS Saint-Étienne,Nîmes Olympique,DRAW
-1065,FC Nantes,Angers SCO,DRAW
-1066,Dijon Football Côte d'Or,AS Monaco FC,AWAY_TEAM
-1067,RC Strasbourg Alsace,FC Girondins de Bordeaux,AWAY_TEAM
-1068,FC Lorient,Stade Rennais FC 1901,AWAY_TEAM
-1069,Lille OSC,Paris Saint-Germain FC,DRAW
-1070,FC Girondins de Bordeaux,Stade de Reims,AWAY_TEAM
-1071,Stade Rennais FC 1901,FC Metz,HOME_TEAM
-1072,OGC Nice,FC Lorient,DRAW
-1073,Racing Club de Lens,Stade Brestois 29,HOME_TEAM
-1074,Nîmes Olympique,Dijon Football Côte d'Or,AWAY_TEAM
-1075,Montpellier HSC,Lille OSC,AWAY_TEAM
-1076,Paris Saint-Germain FC,RC Strasbourg Alsace,HOME_TEAM
-1077,Olympique Lyonnais,FC Nantes,HOME_TEAM
-1078,Angers SCO,Olympique de Marseille,HOME_TEAM
-1079,AS Monaco FC,AS Saint-Étienne,DRAW
-1080,Stade Brestois 29,OGC Nice,HOME_TEAM
-1081,FC Lorient,AS Monaco FC,AWAY_TEAM
-1082,FC Nantes,Stade Rennais FC 1901,DRAW
-1083,FC Metz,FC Girondins de Bordeaux,DRAW
-1084,RC Strasbourg Alsace,Nîmes Olympique,HOME_TEAM
-1085,Lille OSC,Angers SCO,AWAY_TEAM
-1086,Olympique Lyonnais,Racing Club de Lens,HOME_TEAM
-1087,AS Saint-Étienne,Paris Saint-Germain FC,DRAW
-1088,Olympique de Marseille,Montpellier HSC,HOME_TEAM
-1089,Stade de Reims,Dijon Football Côte d'Or,DRAW
-1090,Montpellier HSC,FC Nantes,DRAW
-1091,Paris Saint-Germain FC,Stade Brestois 29,HOME_TEAM
-1092,FC Girondins de Bordeaux,FC Lorient,HOME_TEAM
-1093,Stade Rennais FC 1901,Olympique Lyonnais,DRAW
-1094,Stade de Reims,AS Saint-Étienne,HOME_TEAM
-1095,AS Monaco FC,Angers SCO,HOME_TEAM
-1096,Dijon Football Côte d'Or,Olympique de Marseille,DRAW
-1097,Racing Club de Lens,RC Strasbourg Alsace,AWAY_TEAM
-1098,Nîmes Olympique,Lille OSC,AWAY_TEAM
-1099,FC Metz,OGC Nice,DRAW
-1100,Montpellier HSC,AS Monaco FC,AWAY_TEAM
-1101,Olympique de Marseille,Nîmes Olympique,AWAY_TEAM
-1102,Angers SCO,Paris Saint-Germain FC,AWAY_TEAM
-1103,Stade Brestois 29,Stade Rennais FC 1901,AWAY_TEAM
-1104,OGC Nice,FC Girondins de Bordeaux,AWAY_TEAM
-1105,FC Nantes,Racing Club de Lens,DRAW
-1106,RC Strasbourg Alsace,AS Saint-Étienne,HOME_TEAM
-1107,Lille OSC,Stade de Reims,HOME_TEAM
-1108,Olympique Lyonnais,FC Metz,AWAY_TEAM
-1109,Olympique de Marseille,Racing Club de Lens,AWAY_TEAM
-1110,Paris Saint-Germain FC,Montpellier HSC,HOME_TEAM
-1111,Racing Club de Lens,OGC Nice,AWAY_TEAM
-1112,AS Monaco FC,Olympique de Marseille,HOME_TEAM
-1113,FC Girondins de Bordeaux,Angers SCO,HOME_TEAM
-1114,Stade de Reims,Stade Brestois 29,HOME_TEAM
-1115,Dijon Football Côte d'Or,RC Strasbourg Alsace,DRAW
-1116,FC Metz,FC Nantes,HOME_TEAM
-1117,Stade Rennais FC 1901,Lille OSC,AWAY_TEAM
-1118,AS Saint-Étienne,Olympique Lyonnais,AWAY_TEAM
-1119,FC Lorient,Dijon Football Côte d'Or,HOME_TEAM
-1120,Olympique Lyonnais,FC Girondins de Bordeaux,HOME_TEAM
-1121,Montpellier HSC,Racing Club de Lens,AWAY_TEAM
-1122,OGC Nice,AS Saint-Étienne,AWAY_TEAM
-1123,Stade Brestois 29,FC Metz,AWAY_TEAM
-1124,FC Lorient,Paris Saint-Germain FC,HOME_TEAM
-1125,Angers SCO,Nîmes Olympique,HOME_TEAM
-1126,RC Strasbourg Alsace,Stade de Reims,AWAY_TEAM
-1127,Lille OSC,Dijon Football Côte d'Or,HOME_TEAM
-1128,FC Nantes,AS Monaco FC,AWAY_TEAM
-1129,FC Girondins de Bordeaux,Lille OSC,AWAY_TEAM
-1130,Stade Rennais FC 1901,FC Lorient,DRAW
-1131,Stade de Reims,Angers SCO,DRAW
-1132,FC Metz,Montpellier HSC,DRAW
-1133,RC Strasbourg Alsace,Stade Brestois 29,DRAW
-1134,Paris Saint-Germain FC,Nîmes Olympique,HOME_TEAM
-1135,AS Saint-Étienne,FC Nantes,DRAW
-1136,AS Monaco FC,OGC Nice,HOME_TEAM
-1137,Dijon Football Côte d'Or,Olympique Lyonnais,AWAY_TEAM
-1138,Racing Club de Lens,Olympique de Marseille,DRAW
-1139,FC Lorient,Stade de Reims,HOME_TEAM
-1140,Olympique Lyonnais,RC Strasbourg Alsace,HOME_TEAM
-1141,Racing Club de Lens,Stade Rennais FC 1901,DRAW
-1142,Stade Brestois 29,FC Girondins de Bordeaux,HOME_TEAM
-1143,Montpellier HSC,Dijon Football Côte d'Or,HOME_TEAM
-1144,AS Saint-Étienne,FC Metz,HOME_TEAM
-1145,OGC Nice,Angers SCO,HOME_TEAM
-1146,Nîmes Olympique,AS Monaco FC,AWAY_TEAM
-1147,FC Nantes,Lille OSC,AWAY_TEAM
-1148,Olympique de Marseille,Paris Saint-Germain FC,AWAY_TEAM
-1149,Paris Saint-Germain FC,OGC Nice,HOME_TEAM
-1150,Stade de Reims,Racing Club de Lens,DRAW
-1151,Olympique Lyonnais,Montpellier HSC,AWAY_TEAM
-1152,AS Monaco FC,FC Lorient,DRAW
-1153,Stade Rennais FC 1901,AS Saint-Étienne,AWAY_TEAM
-1154,Angers SCO,FC Nantes,AWAY_TEAM
-1155,Dijon Football Côte d'Or,Nîmes Olympique,AWAY_TEAM
-1156,FC Metz,RC Strasbourg Alsace,AWAY_TEAM
-1157,Lille OSC,Stade Brestois 29,DRAW
-1158,FC Girondins de Bordeaux,Olympique de Marseille,DRAW
-1159,Olympique de Marseille,OGC Nice,HOME_TEAM
-1160,Stade Brestois 29,Olympique Lyonnais,AWAY_TEAM
-1161,AS Saint-Étienne,Stade de Reims,DRAW
-1162,FC Nantes,Olympique de Marseille,DRAW
-1163,Montpellier HSC,Stade Rennais FC 1901,HOME_TEAM
-1164,OGC Nice,FC Metz,AWAY_TEAM
-1165,Racing Club de Lens,Dijon Football Côte d'Or,HOME_TEAM
-1166,Nîmes Olympique,FC Girondins de Bordeaux,HOME_TEAM
-1167,RC Strasbourg Alsace,Angers SCO,DRAW
-1168,FC Lorient,Lille OSC,AWAY_TEAM
-1169,Paris Saint-Germain FC,AS Monaco FC,AWAY_TEAM
-1170,Nîmes Olympique,FC Lorient,HOME_TEAM
+248,Manchester City FC,West Ham United FC,HOME_TEAM
+249,West Bromwich Albion FC,Brighton & Hove Albion FC,HOME_TEAM
+250,Leeds United FC,Aston Villa FC,AWAY_TEAM
+251,Newcastle United FC,Wolverhampton Wanderers FC,DRAW
+252,FC Bayern München,FC Schalke 04,HOME_TEAM
+253,1. FC Köln,TSG 1899 Hoffenheim,AWAY_TEAM
+254,Eintracht Frankfurt,Arminia Bielefeld,DRAW
+255,VfB Stuttgart,SC Freiburg,AWAY_TEAM
+256,SV Werder Bremen,Hertha BSC,AWAY_TEAM
+257,1. FC Union Berlin,FC Augsburg,AWAY_TEAM
+258,Borussia Dortmund,Borussia Mönchengladbach,HOME_TEAM
+259,RB Leipzig,1. FSV Mainz 05,HOME_TEAM
+260,VfL Wolfsburg,Bayer 04 Leverkusen,DRAW
+261,Hertha BSC,Eintracht Frankfurt,AWAY_TEAM
+262,Borussia Mönchengladbach,1. FC Union Berlin,DRAW
+263,Arminia Bielefeld,1. FC Köln,HOME_TEAM
+264,Bayer 04 Leverkusen,RB Leipzig,DRAW
+265,1. FSV Mainz 05,VfB Stuttgart,AWAY_TEAM
+266,FC Augsburg,Borussia Dortmund,HOME_TEAM
+267,FC Schalke 04,SV Werder Bremen,AWAY_TEAM
+268,TSG 1899 Hoffenheim,FC Bayern München,HOME_TEAM
+269,SC Freiburg,VfL Wolfsburg,DRAW
+270,1. FC Union Berlin,1. FSV Mainz 05,HOME_TEAM
+271,1. FC Köln,Borussia Mönchengladbach,AWAY_TEAM
+272,Eintracht Frankfurt,TSG 1899 Hoffenheim,HOME_TEAM
+273,Borussia Dortmund,SC Freiburg,HOME_TEAM
+274,VfB Stuttgart,Bayer 04 Leverkusen,DRAW
+275,SV Werder Bremen,Arminia Bielefeld,HOME_TEAM
+276,RB Leipzig,FC Schalke 04,HOME_TEAM
+277,VfL Wolfsburg,FC Augsburg,DRAW
+278,FC Bayern München,Hertha BSC,HOME_TEAM
+279,Hertha BSC,VfB Stuttgart,AWAY_TEAM
+280,SC Freiburg,SV Werder Bremen,DRAW
+281,1. FSV Mainz 05,Bayer 04 Leverkusen,AWAY_TEAM
+282,TSG 1899 Hoffenheim,Borussia Dortmund,AWAY_TEAM
+283,FC Augsburg,RB Leipzig,AWAY_TEAM
+284,Arminia Bielefeld,FC Bayern München,AWAY_TEAM
+285,Borussia Mönchengladbach,VfL Wolfsburg,DRAW
+286,1. FC Köln,Eintracht Frankfurt,DRAW
+287,FC Schalke 04,1. FC Union Berlin,DRAW
+288,VfB Stuttgart,1. FC Köln,DRAW
+289,FC Bayern München,Eintracht Frankfurt,HOME_TEAM
+290,1. FSV Mainz 05,Borussia Mönchengladbach,AWAY_TEAM
+291,1. FC Union Berlin,SC Freiburg,DRAW
+292,RB Leipzig,Hertha BSC,HOME_TEAM
+293,Borussia Dortmund,FC Schalke 04,HOME_TEAM
+294,VfL Wolfsburg,Arminia Bielefeld,HOME_TEAM
+295,SV Werder Bremen,TSG 1899 Hoffenheim,DRAW
+296,Bayer 04 Leverkusen,FC Augsburg,HOME_TEAM
+297,FC Schalke 04,VfB Stuttgart,DRAW
+298,1. FC Köln,FC Bayern München,AWAY_TEAM
+299,Eintracht Frankfurt,SV Werder Bremen,DRAW
+300,Arminia Bielefeld,Borussia Dortmund,AWAY_TEAM
+301,FC Augsburg,1. FSV Mainz 05,HOME_TEAM
+302,Borussia Mönchengladbach,RB Leipzig,HOME_TEAM
+303,SC Freiburg,Bayer 04 Leverkusen,AWAY_TEAM
+304,Hertha BSC,VfL Wolfsburg,DRAW
+305,TSG 1899 Hoffenheim,1. FC Union Berlin,AWAY_TEAM
+306,SV Werder Bremen,1. FC Köln,DRAW
+307,VfB Stuttgart,Eintracht Frankfurt,DRAW
+308,1. FSV Mainz 05,FC Schalke 04,DRAW
+309,FC Augsburg,Hertha BSC,AWAY_TEAM
+310,1. FC Union Berlin,Arminia Bielefeld,HOME_TEAM
+311,RB Leipzig,SC Freiburg,HOME_TEAM
+312,Borussia Dortmund,FC Bayern München,AWAY_TEAM
+313,VfL Wolfsburg,TSG 1899 Hoffenheim,HOME_TEAM
+314,Bayer 04 Leverkusen,Borussia Mönchengladbach,HOME_TEAM
+315,FC Schalke 04,VfL Wolfsburg,AWAY_TEAM
+316,Borussia Mönchengladbach,FC Augsburg,DRAW
+317,FC Bayern München,SV Werder Bremen,DRAW
+318,Arminia Bielefeld,Bayer 04 Leverkusen,AWAY_TEAM
+319,TSG 1899 Hoffenheim,VfB Stuttgart,DRAW
+320,Eintracht Frankfurt,RB Leipzig,DRAW
+321,Hertha BSC,Borussia Dortmund,AWAY_TEAM
+322,SC Freiburg,1. FSV Mainz 05,AWAY_TEAM
+323,1. FC Köln,1. FC Union Berlin,AWAY_TEAM
+324,VfL Wolfsburg,SV Werder Bremen,HOME_TEAM
+325,Borussia Dortmund,1. FC Köln,AWAY_TEAM
+326,VfB Stuttgart,FC Bayern München,AWAY_TEAM
+327,FC Augsburg,SC Freiburg,DRAW
+328,1. FC Union Berlin,Eintracht Frankfurt,DRAW
+329,RB Leipzig,Arminia Bielefeld,HOME_TEAM
+330,Borussia Mönchengladbach,FC Schalke 04,HOME_TEAM
+331,Bayer 04 Leverkusen,Hertha BSC,DRAW
+332,1. FSV Mainz 05,TSG 1899 Hoffenheim,DRAW
+333,Hertha BSC,1. FC Union Berlin,HOME_TEAM
+334,1. FC Köln,VfL Wolfsburg,DRAW
+335,Eintracht Frankfurt,Borussia Dortmund,DRAW
+336,Arminia Bielefeld,1. FSV Mainz 05,HOME_TEAM
+337,SC Freiburg,Borussia Mönchengladbach,DRAW
+338,FC Bayern München,RB Leipzig,DRAW
+339,SV Werder Bremen,VfB Stuttgart,AWAY_TEAM
+340,FC Schalke 04,Bayer 04 Leverkusen,AWAY_TEAM
+341,TSG 1899 Hoffenheim,FC Augsburg,HOME_TEAM
+342,VfL Wolfsburg,Eintracht Frankfurt,HOME_TEAM
+343,Borussia Dortmund,VfB Stuttgart,AWAY_TEAM
+344,Borussia Mönchengladbach,Hertha BSC,DRAW
+345,SC Freiburg,Arminia Bielefeld,HOME_TEAM
+346,1. FSV Mainz 05,1. FC Köln,AWAY_TEAM
+347,RB Leipzig,SV Werder Bremen,HOME_TEAM
+348,1. FC Union Berlin,FC Bayern München,DRAW
+349,FC Augsburg,FC Schalke 04,DRAW
+350,Bayer 04 Leverkusen,TSG 1899 Hoffenheim,HOME_TEAM
+351,Eintracht Frankfurt,Borussia Mönchengladbach,DRAW
+352,SV Werder Bremen,Borussia Dortmund,AWAY_TEAM
+353,Hertha BSC,1. FSV Mainz 05,DRAW
+354,VfB Stuttgart,1. FC Union Berlin,DRAW
+355,FC Schalke 04,SC Freiburg,AWAY_TEAM
+356,FC Bayern München,VfL Wolfsburg,HOME_TEAM
+357,Arminia Bielefeld,FC Augsburg,AWAY_TEAM
+358,TSG 1899 Hoffenheim,RB Leipzig,AWAY_TEAM
+359,1. FC Köln,Bayer 04 Leverkusen,AWAY_TEAM
+360,1. FC Union Berlin,Borussia Dortmund,HOME_TEAM
+361,FC Schalke 04,Arminia Bielefeld,AWAY_TEAM
+362,Borussia Mönchengladbach,TSG 1899 Hoffenheim,AWAY_TEAM
+363,1. FSV Mainz 05,SV Werder Bremen,AWAY_TEAM
+364,FC Augsburg,Eintracht Frankfurt,AWAY_TEAM
+365,RB Leipzig,1. FC Köln,DRAW
+366,Bayer 04 Leverkusen,FC Bayern München,AWAY_TEAM
+367,SC Freiburg,Hertha BSC,HOME_TEAM
+368,VfL Wolfsburg,VfB Stuttgart,HOME_TEAM
+369,1. FC Köln,FC Augsburg,AWAY_TEAM
+370,Eintracht Frankfurt,Bayer 04 Leverkusen,HOME_TEAM
+371,SV Werder Bremen,1. FC Union Berlin,AWAY_TEAM
+372,Arminia Bielefeld,Borussia Mönchengladbach,AWAY_TEAM
+373,TSG 1899 Hoffenheim,SC Freiburg,AWAY_TEAM
+374,Hertha BSC,FC Schalke 04,HOME_TEAM
+375,VfB Stuttgart,RB Leipzig,AWAY_TEAM
+376,Borussia Dortmund,VfL Wolfsburg,HOME_TEAM
+377,FC Bayern München,1. FSV Mainz 05,HOME_TEAM
+378,Borussia Mönchengladbach,FC Bayern München,HOME_TEAM
+379,FC Schalke 04,TSG 1899 Hoffenheim,HOME_TEAM
+380,Bayer 04 Leverkusen,SV Werder Bremen,DRAW
+381,SC Freiburg,1. FC Köln,HOME_TEAM
+382,1. FSV Mainz 05,Eintracht Frankfurt,AWAY_TEAM
+383,1. FC Union Berlin,VfL Wolfsburg,DRAW
+384,RB Leipzig,Borussia Dortmund,AWAY_TEAM
+385,FC Augsburg,VfB Stuttgart,AWAY_TEAM
+386,Arminia Bielefeld,Hertha BSC,HOME_TEAM
+387,1. FC Union Berlin,Bayer 04 Leverkusen,HOME_TEAM
+388,1. FC Köln,Hertha BSC,DRAW
+389,Borussia Dortmund,1. FSV Mainz 05,DRAW
+390,SV Werder Bremen,FC Augsburg,HOME_TEAM
+391,VfL Wolfsburg,RB Leipzig,DRAW
+392,TSG 1899 Hoffenheim,Arminia Bielefeld,DRAW
+393,VfB Stuttgart,Borussia Mönchengladbach,DRAW
+394,FC Bayern München,SC Freiburg,HOME_TEAM
+395,Eintracht Frankfurt,FC Schalke 04,HOME_TEAM
+396,Borussia Mönchengladbach,SV Werder Bremen,HOME_TEAM
+397,Hertha BSC,TSG 1899 Hoffenheim,AWAY_TEAM
+398,Bayer 04 Leverkusen,Borussia Dortmund,HOME_TEAM
+399,1. FSV Mainz 05,VfL Wolfsburg,AWAY_TEAM
+400,FC Schalke 04,1. FC Köln,AWAY_TEAM
+401,Arminia Bielefeld,VfB Stuttgart,HOME_TEAM
+402,SC Freiburg,Eintracht Frankfurt,DRAW
+403,FC Augsburg,FC Bayern München,AWAY_TEAM
+404,RB Leipzig,1. FC Union Berlin,HOME_TEAM
+405,Borussia Mönchengladbach,Borussia Dortmund,HOME_TEAM
+406,Arminia Bielefeld,Eintracht Frankfurt,AWAY_TEAM
+407,Bayer 04 Leverkusen,VfL Wolfsburg,AWAY_TEAM
+408,SC Freiburg,VfB Stuttgart,HOME_TEAM
+409,1. FSV Mainz 05,RB Leipzig,HOME_TEAM
+410,FC Augsburg,1. FC Union Berlin,HOME_TEAM
+411,Hertha BSC,SV Werder Bremen,AWAY_TEAM
+412,FC Schalke 04,FC Bayern München,AWAY_TEAM
+413,TSG 1899 Hoffenheim,1. FC Köln,HOME_TEAM
+414,VfB Stuttgart,1. FSV Mainz 05,HOME_TEAM
+415,Eintracht Frankfurt,Hertha BSC,HOME_TEAM
+416,Borussia Dortmund,FC Augsburg,HOME_TEAM
+417,SV Werder Bremen,FC Schalke 04,DRAW
+418,FC Bayern München,TSG 1899 Hoffenheim,HOME_TEAM
+419,1. FC Union Berlin,Borussia Mönchengladbach,DRAW
+420,RB Leipzig,Bayer 04 Leverkusen,HOME_TEAM
+421,1. FC Köln,Arminia Bielefeld,HOME_TEAM
+422,VfL Wolfsburg,SC Freiburg,HOME_TEAM
+423,Hertha BSC,FC Bayern München,AWAY_TEAM
+424,FC Schalke 04,RB Leipzig,AWAY_TEAM
+425,Bayer 04 Leverkusen,VfB Stuttgart,HOME_TEAM
+426,SC Freiburg,Borussia Dortmund,HOME_TEAM
+427,1. FSV Mainz 05,1. FC Union Berlin,HOME_TEAM
+428,FC Augsburg,VfL Wolfsburg,AWAY_TEAM
+429,Borussia Mönchengladbach,1. FC Köln,AWAY_TEAM
+430,TSG 1899 Hoffenheim,Eintracht Frankfurt,AWAY_TEAM
+431,RB Leipzig,FC Augsburg,HOME_TEAM
+432,Borussia Dortmund,TSG 1899 Hoffenheim,DRAW
+433,VfB Stuttgart,Hertha BSC,DRAW
+434,SV Werder Bremen,SC Freiburg,DRAW
+435,Bayer 04 Leverkusen,1. FSV Mainz 05,DRAW
+436,1. FC Union Berlin,FC Schalke 04,DRAW
+437,Eintracht Frankfurt,1. FC Köln,HOME_TEAM
+438,VfL Wolfsburg,Borussia Mönchengladbach,DRAW
+439,FC Bayern München,Arminia Bielefeld,DRAW
+440,Arminia Bielefeld,VfL Wolfsburg,AWAY_TEAM
+441,1. FC Köln,VfB Stuttgart,AWAY_TEAM
+442,Eintracht Frankfurt,FC Bayern München,HOME_TEAM
+443,Borussia Mönchengladbach,1. FSV Mainz 05,AWAY_TEAM
+444,SC Freiburg,1. FC Union Berlin,AWAY_TEAM
+445,FC Schalke 04,Borussia Dortmund,AWAY_TEAM
+446,FC Augsburg,Bayer 04 Leverkusen,DRAW
+447,Hertha BSC,RB Leipzig,AWAY_TEAM
+448,TSG 1899 Hoffenheim,SV Werder Bremen,HOME_TEAM
+449,SV Werder Bremen,Eintracht Frankfurt,HOME_TEAM
+450,Borussia Dortmund,Arminia Bielefeld,HOME_TEAM
+451,VfB Stuttgart,FC Schalke 04,HOME_TEAM
+452,FC Bayern München,1. FC Köln,HOME_TEAM
+453,VfL Wolfsburg,Hertha BSC,HOME_TEAM
+454,RB Leipzig,Borussia Mönchengladbach,HOME_TEAM
+455,ACF Fiorentina,Torino FC,HOME_TEAM
+456,Hellas Verona FC,AS Roma,HOME_TEAM
+457,Parma Calcio 1913,SSC Napoli,AWAY_TEAM
+458,Genoa CFC,FC Crotone,HOME_TEAM
+459,US Sassuolo Calcio,Cagliari Calcio,DRAW
+460,Juventus FC,UC Sampdoria,HOME_TEAM
+461,AC Milan,Bologna FC 1909,HOME_TEAM
+462,Torino FC,Atalanta BC,AWAY_TEAM
+463,UC Sampdoria,Benevento Calcio,AWAY_TEAM
+464,Cagliari Calcio,SS Lazio,AWAY_TEAM
+465,FC Internazionale Milano,ACF Fiorentina,HOME_TEAM
+466,Spezia Calcio,US Sassuolo Calcio,AWAY_TEAM
+467,Hellas Verona FC,Udinese Calcio,HOME_TEAM
+468,SSC Napoli,Genoa CFC,HOME_TEAM
+469,FC Crotone,AC Milan,AWAY_TEAM
+470,AS Roma,Juventus FC,DRAW
+471,Bologna FC 1909,Parma Calcio 1913,HOME_TEAM
+472,Udinese Calcio,Spezia Calcio,AWAY_TEAM
+473,Benevento Calcio,FC Internazionale Milano,AWAY_TEAM
+474,SS Lazio,Atalanta BC,AWAY_TEAM
+475,ACF Fiorentina,UC Sampdoria,AWAY_TEAM
+476,US Sassuolo Calcio,FC Crotone,HOME_TEAM
+477,Udinese Calcio,AS Roma,AWAY_TEAM
+478,Atalanta BC,Cagliari Calcio,HOME_TEAM
+479,SS Lazio,FC Internazionale Milano,DRAW
+480,Parma Calcio 1913,Hellas Verona FC,HOME_TEAM
+481,Benevento Calcio,Bologna FC 1909,HOME_TEAM
+482,AC Milan,Spezia Calcio,HOME_TEAM
+483,SSC Napoli,Atalanta BC,HOME_TEAM
+484,FC Internazionale Milano,AC Milan,AWAY_TEAM
+485,UC Sampdoria,SS Lazio,HOME_TEAM
+486,FC Crotone,Juventus FC,DRAW
+487,Bologna FC 1909,US Sassuolo Calcio,AWAY_TEAM
+488,Torino FC,Cagliari Calcio,AWAY_TEAM
+489,Spezia Calcio,ACF Fiorentina,DRAW
+490,Udinese Calcio,Parma Calcio 1913,HOME_TEAM
+491,AS Roma,Benevento Calcio,HOME_TEAM
+492,Hellas Verona FC,Genoa CFC,DRAW
+493,US Sassuolo Calcio,Torino FC,DRAW
+494,Atalanta BC,UC Sampdoria,AWAY_TEAM
+495,Genoa CFC,FC Internazionale Milano,AWAY_TEAM
+496,SS Lazio,Bologna FC 1909,HOME_TEAM
+497,Cagliari Calcio,FC Crotone,HOME_TEAM
+498,Parma Calcio 1913,Spezia Calcio,DRAW
+499,Benevento Calcio,SSC Napoli,AWAY_TEAM
+500,ACF Fiorentina,Udinese Calcio,HOME_TEAM
+501,Juventus FC,Hellas Verona FC,DRAW
+502,AC Milan,AS Roma,DRAW
+503,FC Crotone,Atalanta BC,AWAY_TEAM
+504,FC Internazionale Milano,Parma Calcio 1913,DRAW
+505,Bologna FC 1909,Cagliari Calcio,HOME_TEAM
+506,Udinese Calcio,AC Milan,AWAY_TEAM
+507,Torino FC,SS Lazio,AWAY_TEAM
+508,Spezia Calcio,Juventus FC,AWAY_TEAM
+509,SSC Napoli,US Sassuolo Calcio,AWAY_TEAM
+510,AS Roma,ACF Fiorentina,HOME_TEAM
+511,UC Sampdoria,Genoa CFC,DRAW
+512,Hellas Verona FC,Benevento Calcio,HOME_TEAM
+513,Genoa CFC,Torino FC,AWAY_TEAM
+514,US Sassuolo Calcio,Udinese Calcio,DRAW
+515,Cagliari Calcio,UC Sampdoria,HOME_TEAM
+516,Benevento Calcio,Spezia Calcio,AWAY_TEAM
+517,Parma Calcio 1913,ACF Fiorentina,DRAW
+518,SS Lazio,Juventus FC,DRAW
+519,Atalanta BC,FC Internazionale Milano,DRAW
+520,Torino FC,FC Crotone,DRAW
+521,Genoa CFC,AS Roma,AWAY_TEAM
+522,Bologna FC 1909,SSC Napoli,AWAY_TEAM
+523,AC Milan,Hellas Verona FC,DRAW
+524,FC Crotone,SS Lazio,AWAY_TEAM
+525,Spezia Calcio,Atalanta BC,DRAW
+526,Juventus FC,Cagliari Calcio,HOME_TEAM
+527,ACF Fiorentina,Benevento Calcio,AWAY_TEAM
+528,FC Internazionale Milano,Torino FC,HOME_TEAM
+529,AS Roma,Parma Calcio 1913,HOME_TEAM
+530,UC Sampdoria,Bologna FC 1909,AWAY_TEAM
+531,Hellas Verona FC,US Sassuolo Calcio,AWAY_TEAM
+532,Udinese Calcio,Genoa CFC,HOME_TEAM
+533,SSC Napoli,AC Milan,AWAY_TEAM
+534,US Sassuolo Calcio,FC Internazionale Milano,AWAY_TEAM
+535,Benevento Calcio,Juventus FC,DRAW
+536,Atalanta BC,Hellas Verona FC,AWAY_TEAM
+537,SS Lazio,Udinese Calcio,AWAY_TEAM
+538,AC Milan,ACF Fiorentina,HOME_TEAM
+539,Bologna FC 1909,FC Crotone,HOME_TEAM
+540,Cagliari Calcio,Spezia Calcio,DRAW
+541,SSC Napoli,AS Roma,HOME_TEAM
+542,Torino FC,UC Sampdoria,DRAW
+543,Genoa CFC,Parma Calcio 1913,AWAY_TEAM
+544,Spezia Calcio,SS Lazio,AWAY_TEAM
+545,Juventus FC,Torino FC,HOME_TEAM
+546,FC Internazionale Milano,Bologna FC 1909,HOME_TEAM
+547,Hellas Verona FC,Cagliari Calcio,DRAW
+548,AS Roma,US Sassuolo Calcio,DRAW
+549,Parma Calcio 1913,Benevento Calcio,DRAW
+550,FC Crotone,SSC Napoli,AWAY_TEAM
+551,UC Sampdoria,AC Milan,AWAY_TEAM
+552,ACF Fiorentina,Genoa CFC,DRAW
+553,US Sassuolo Calcio,Benevento Calcio,HOME_TEAM
+554,FC Crotone,Spezia Calcio,HOME_TEAM
+555,Torino FC,Udinese Calcio,AWAY_TEAM
+556,SS Lazio,Hellas Verona FC,AWAY_TEAM
+557,Cagliari Calcio,FC Internazionale Milano,AWAY_TEAM
+558,SSC Napoli,UC Sampdoria,HOME_TEAM
+559,Atalanta BC,ACF Fiorentina,HOME_TEAM
+560,Bologna FC 1909,AS Roma,AWAY_TEAM
+561,Genoa CFC,Juventus FC,AWAY_TEAM
+562,AC Milan,Parma Calcio 1913,DRAW
+563,Udinese Calcio,FC Crotone,DRAW
+564,Benevento Calcio,SS Lazio,DRAW
+565,Juventus FC,Atalanta BC,DRAW
+566,FC Internazionale Milano,SSC Napoli,HOME_TEAM
+567,ACF Fiorentina,US Sassuolo Calcio,DRAW
+568,Parma Calcio 1913,Cagliari Calcio,DRAW
+569,Genoa CFC,AC Milan,DRAW
+570,Spezia Calcio,Bologna FC 1909,DRAW
+571,Hellas Verona FC,UC Sampdoria,AWAY_TEAM
+572,AS Roma,Torino FC,HOME_TEAM
+573,ACF Fiorentina,Hellas Verona FC,DRAW
+574,UC Sampdoria,FC Crotone,HOME_TEAM
+575,Parma Calcio 1913,Juventus FC,AWAY_TEAM
+576,Torino FC,Bologna FC 1909,DRAW
+577,FC Internazionale Milano,Spezia Calcio,HOME_TEAM
+578,Cagliari Calcio,Udinese Calcio,DRAW
+579,US Sassuolo Calcio,AC Milan,AWAY_TEAM
+580,Benevento Calcio,Genoa CFC,HOME_TEAM
+581,Atalanta BC,AS Roma,HOME_TEAM
+582,SS Lazio,SSC Napoli,HOME_TEAM
+583,FC Crotone,Parma Calcio 1913,HOME_TEAM
+584,Juventus FC,ACF Fiorentina,AWAY_TEAM
+585,Hellas Verona FC,FC Internazionale Milano,AWAY_TEAM
+586,SSC Napoli,Torino FC,DRAW
+587,AS Roma,Cagliari Calcio,HOME_TEAM
+588,AC Milan,SS Lazio,HOME_TEAM
+589,Udinese Calcio,Benevento Calcio,AWAY_TEAM
+590,UC Sampdoria,US Sassuolo Calcio,AWAY_TEAM
+591,Bologna FC 1909,Atalanta BC,DRAW
+592,Spezia Calcio,Genoa CFC,AWAY_TEAM
+593,FC Internazionale Milano,FC Crotone,HOME_TEAM
+594,ACF Fiorentina,Bologna FC 1909,DRAW
+595,AS Roma,UC Sampdoria,HOME_TEAM
+596,Parma Calcio 1913,Torino FC,AWAY_TEAM
+597,Atalanta BC,US Sassuolo Calcio,HOME_TEAM
+598,Cagliari Calcio,SSC Napoli,AWAY_TEAM
+599,Genoa CFC,SS Lazio,DRAW
+600,Spezia Calcio,Hellas Verona FC,AWAY_TEAM
+601,Benevento Calcio,AC Milan,AWAY_TEAM
+602,Juventus FC,Udinese Calcio,HOME_TEAM
+603,Cagliari Calcio,Benevento Calcio,AWAY_TEAM
+604,SS Lazio,ACF Fiorentina,HOME_TEAM
+605,Atalanta BC,Parma Calcio 1913,HOME_TEAM
+606,UC Sampdoria,FC Internazionale Milano,HOME_TEAM
+607,Torino FC,Hellas Verona FC,DRAW
+608,Bologna FC 1909,Udinese Calcio,DRAW
+609,US Sassuolo Calcio,Genoa CFC,HOME_TEAM
+610,FC Crotone,AS Roma,AWAY_TEAM
+611,SSC Napoli,Spezia Calcio,AWAY_TEAM
+612,AC Milan,Juventus FC,AWAY_TEAM
+613,Benevento Calcio,Atalanta BC,AWAY_TEAM
+614,Genoa CFC,Bologna FC 1909,HOME_TEAM
+615,AC Milan,Torino FC,HOME_TEAM
+616,AS Roma,FC Internazionale Milano,DRAW
+617,Parma Calcio 1913,SS Lazio,AWAY_TEAM
+618,Udinese Calcio,SSC Napoli,AWAY_TEAM
+619,Hellas Verona FC,FC Crotone,HOME_TEAM
+620,ACF Fiorentina,Cagliari Calcio,HOME_TEAM
+621,Juventus FC,US Sassuolo Calcio,HOME_TEAM
+622,Spezia Calcio,UC Sampdoria,HOME_TEAM
+623,SS Lazio,AS Roma,HOME_TEAM
+624,Bologna FC 1909,Hellas Verona FC,HOME_TEAM
+625,Torino FC,Spezia Calcio,DRAW
+626,UC Sampdoria,Udinese Calcio,HOME_TEAM
+627,SSC Napoli,ACF Fiorentina,HOME_TEAM
+628,US Sassuolo Calcio,Parma Calcio 1913,DRAW
+629,FC Crotone,Benevento Calcio,HOME_TEAM
+630,Atalanta BC,Genoa CFC,DRAW
+631,FC Internazionale Milano,Juventus FC,HOME_TEAM
+632,Cagliari Calcio,AC Milan,AWAY_TEAM
+633,Udinese Calcio,Atalanta BC,DRAW
+634,Benevento Calcio,Torino FC,DRAW
+635,AS Roma,Spezia Calcio,HOME_TEAM
+636,AC Milan,Atalanta BC,AWAY_TEAM
+637,Udinese Calcio,FC Internazionale Milano,DRAW
+638,ACF Fiorentina,FC Crotone,HOME_TEAM
+639,Juventus FC,Bologna FC 1909,HOME_TEAM
+640,Genoa CFC,Cagliari Calcio,HOME_TEAM
+641,Hellas Verona FC,SSC Napoli,HOME_TEAM
+642,SS Lazio,US Sassuolo Calcio,HOME_TEAM
+643,Parma Calcio 1913,UC Sampdoria,AWAY_TEAM
+644,Torino FC,ACF Fiorentina,DRAW
+645,Bologna FC 1909,AC Milan,AWAY_TEAM
+646,UC Sampdoria,Juventus FC,AWAY_TEAM
+647,FC Internazionale Milano,Benevento Calcio,HOME_TEAM
+648,Spezia Calcio,Udinese Calcio,AWAY_TEAM
+649,Atalanta BC,SS Lazio,AWAY_TEAM
+650,Cagliari Calcio,US Sassuolo Calcio,DRAW
+651,FC Crotone,Genoa CFC,AWAY_TEAM
+652,SSC Napoli,Parma Calcio 1913,HOME_TEAM
+653,AS Roma,Hellas Verona FC,HOME_TEAM
+654,ACF Fiorentina,FC Internazionale Milano,AWAY_TEAM
+655,Atalanta BC,Torino FC,DRAW
+656,US Sassuolo Calcio,Spezia Calcio,AWAY_TEAM
+657,Juventus FC,AS Roma,HOME_TEAM
+658,Genoa CFC,SSC Napoli,HOME_TEAM
+659,Benevento Calcio,UC Sampdoria,DRAW
+660,AC Milan,FC Crotone,HOME_TEAM
+661,Udinese Calcio,Hellas Verona FC,HOME_TEAM
+662,Parma Calcio 1913,Bologna FC 1909,AWAY_TEAM
+663,SS Lazio,Cagliari Calcio,HOME_TEAM
+664,Bologna FC 1909,Benevento Calcio,DRAW
+665,Torino FC,Genoa CFC,DRAW
+666,SSC Napoli,Juventus FC,HOME_TEAM
+667,Spezia Calcio,AC Milan,HOME_TEAM
+668,AS Roma,Udinese Calcio,HOME_TEAM
+669,UC Sampdoria,ACF Fiorentina,HOME_TEAM
+670,Cagliari Calcio,Atalanta BC,AWAY_TEAM
+671,FC Crotone,US Sassuolo Calcio,AWAY_TEAM
+672,FC Internazionale Milano,SS Lazio,HOME_TEAM
+673,Hellas Verona FC,Parma Calcio 1913,HOME_TEAM
+674,ACF Fiorentina,Spezia Calcio,HOME_TEAM
+675,Cagliari Calcio,Torino FC,AWAY_TEAM
+676,SS Lazio,UC Sampdoria,HOME_TEAM
+677,Genoa CFC,Hellas Verona FC,DRAW
+678,US Sassuolo Calcio,Bologna FC 1909,DRAW
+679,Parma Calcio 1913,Udinese Calcio,DRAW
+680,AC Milan,FC Internazionale Milano,AWAY_TEAM
+681,Atalanta BC,SSC Napoli,HOME_TEAM
+682,Benevento Calcio,AS Roma,DRAW
+683,Juventus FC,FC Crotone,HOME_TEAM
+684,Spezia Calcio,Parma Calcio 1913,DRAW
+685,Bologna FC 1909,SS Lazio,HOME_TEAM
+686,Hellas Verona FC,Juventus FC,DRAW
+687,SD Eibar,RC Celta de Vigo,DRAW
+688,Granada CF,Athletic Club,HOME_TEAM
+689,Cádiz CF,CA Osasuna,AWAY_TEAM
+690,Deportivo Alavés,Real Betis Balompié,AWAY_TEAM
+691,Real Valladolid CF,Real Sociedad de Fútbol,DRAW
+692,Villarreal CF,SD Huesca,DRAW
+693,Valencia CF,Levante UD,HOME_TEAM
+694,Villarreal CF,SD Eibar,HOME_TEAM
+695,Getafe CF,CA Osasuna,HOME_TEAM
+696,RC Celta de Vigo,Valencia CF,HOME_TEAM
+697,SD Huesca,Cádiz CF,AWAY_TEAM
+698,Real Betis Balompié,Real Valladolid CF,HOME_TEAM
+699,Granada CF,Deportivo Alavés,HOME_TEAM
+700,Real Sociedad de Fútbol,Real Madrid CF,DRAW
+701,Deportivo Alavés,Getafe CF,DRAW
+702,Valencia CF,SD Huesca,DRAW
+703,Elche CF,Real Sociedad de Fútbol,AWAY_TEAM
+704,Real Betis Balompié,Real Madrid CF,AWAY_TEAM
+705,CA Osasuna,Levante UD,AWAY_TEAM
+706,SD Eibar,Athletic Club,AWAY_TEAM
+707,Club Atlético de Madrid,Granada CF,HOME_TEAM
+708,Real Valladolid CF,RC Celta de Vigo,DRAW
+709,Cádiz CF,Sevilla FC,AWAY_TEAM
+710,FC Barcelona,Villarreal CF,HOME_TEAM
+711,Real Sociedad de Fútbol,Valencia CF,AWAY_TEAM
+712,Getafe CF,Real Betis Balompié,HOME_TEAM
+713,Villarreal CF,Deportivo Alavés,HOME_TEAM
+714,SD Huesca,Club Atlético de Madrid,DRAW
+715,Real Madrid CF,Real Valladolid CF,HOME_TEAM
+716,SD Eibar,Elche CF,AWAY_TEAM
+717,Sevilla FC,Levante UD,HOME_TEAM
+718,Athletic Club,Cádiz CF,AWAY_TEAM
+719,RC Celta de Vigo,FC Barcelona,AWAY_TEAM
+720,Real Valladolid CF,SD Eibar,AWAY_TEAM
+721,Club Atlético de Madrid,Villarreal CF,DRAW
+722,Real Sociedad de Fútbol,Getafe CF,HOME_TEAM
+723,Elche CF,SD Huesca,DRAW
+724,Valencia CF,Real Betis Balompié,AWAY_TEAM
+725,CA Osasuna,RC Celta de Vigo,HOME_TEAM
+726,Deportivo Alavés,Athletic Club,HOME_TEAM
+727,Levante UD,Real Madrid CF,AWAY_TEAM
+728,Cádiz CF,Granada CF,DRAW
+729,FC Barcelona,Sevilla FC,DRAW
+730,Granada CF,Sevilla FC,HOME_TEAM
+731,RC Celta de Vigo,Club Atlético de Madrid,AWAY_TEAM
+732,Real Madrid CF,Cádiz CF,AWAY_TEAM
+733,Getafe CF,FC Barcelona,HOME_TEAM
+734,SD Eibar,CA Osasuna,DRAW
+735,Athletic Club,Levante UD,HOME_TEAM
+736,Villarreal CF,Valencia CF,HOME_TEAM
+737,SD Huesca,Real Valladolid CF,DRAW
+738,Deportivo Alavés,Elche CF,AWAY_TEAM
+739,Real Betis Balompié,Real Sociedad de Fútbol,AWAY_TEAM
+740,Elche CF,Valencia CF,HOME_TEAM
+741,FC Barcelona,Real Madrid CF,AWAY_TEAM
+742,CA Osasuna,Athletic Club,HOME_TEAM
+743,Sevilla FC,SD Eibar,AWAY_TEAM
+744,Club Atlético de Madrid,Real Betis Balompié,HOME_TEAM
+745,Real Valladolid CF,Deportivo Alavés,AWAY_TEAM
+746,Cádiz CF,Villarreal CF,DRAW
+747,Getafe CF,Granada CF,AWAY_TEAM
+748,Real Sociedad de Fútbol,SD Huesca,HOME_TEAM
+749,Levante UD,RC Celta de Vigo,DRAW
+750,SD Eibar,Cádiz CF,AWAY_TEAM
+751,Real Madrid CF,SD Huesca,HOME_TEAM
+752,Athletic Club,Sevilla FC,HOME_TEAM
+753,CA Osasuna,Club Atlético de Madrid,AWAY_TEAM
+754,Deportivo Alavés,FC Barcelona,DRAW
+755,Real Betis Balompié,Elche CF,HOME_TEAM
+756,RC Celta de Vigo,Real Sociedad de Fútbol,AWAY_TEAM
+757,Granada CF,Levante UD,DRAW
+758,Valencia CF,Getafe CF,DRAW
+759,Villarreal CF,Real Valladolid CF,HOME_TEAM
+760,Elche CF,RC Celta de Vigo,DRAW
+761,SD Huesca,SD Eibar,DRAW
+762,FC Barcelona,Real Betis Balompié,HOME_TEAM
+763,Sevilla FC,CA Osasuna,HOME_TEAM
+764,Club Atlético de Madrid,Cádiz CF,HOME_TEAM
+765,Getafe CF,Villarreal CF,AWAY_TEAM
+766,Real Sociedad de Fútbol,Granada CF,HOME_TEAM
+767,Levante UD,Deportivo Alavés,DRAW
+768,Real Valladolid CF,Athletic Club,HOME_TEAM
+769,Valencia CF,Real Madrid CF,HOME_TEAM
+770,CA Osasuna,SD Huesca,DRAW
+771,Levante UD,Elche CF,DRAW
+772,Villarreal CF,Real Madrid CF,DRAW
+773,Sevilla FC,RC Celta de Vigo,HOME_TEAM
+774,Club Atlético de Madrid,FC Barcelona,HOME_TEAM
+775,SD Eibar,Getafe CF,DRAW
+776,Cádiz CF,Real Sociedad de Fútbol,AWAY_TEAM
+777,Granada CF,Real Valladolid CF,AWAY_TEAM
+778,Deportivo Alavés,Valencia CF,DRAW
+779,Athletic Club,Real Betis Balompié,HOME_TEAM
+780,Real Valladolid CF,Levante UD,DRAW
+781,Elche CF,Cádiz CF,DRAW
+782,Valencia CF,Club Atlético de Madrid,AWAY_TEAM
+783,SD Huesca,Sevilla FC,AWAY_TEAM
+784,Real Madrid CF,Deportivo Alavés,AWAY_TEAM
+785,FC Barcelona,CA Osasuna,HOME_TEAM
+786,Getafe CF,Athletic Club,DRAW
+787,RC Celta de Vigo,Granada CF,HOME_TEAM
+788,Real Sociedad de Fútbol,Villarreal CF,DRAW
+789,Real Betis Balompié,SD Eibar,AWAY_TEAM
+790,Athletic Club,RC Celta de Vigo,AWAY_TEAM
+791,Levante UD,Getafe CF,HOME_TEAM
+792,Sevilla FC,Real Madrid CF,AWAY_TEAM
+793,Club Atlético de Madrid,Real Valladolid CF,HOME_TEAM
+794,Cádiz CF,FC Barcelona,HOME_TEAM
+795,Granada CF,SD Huesca,DRAW
+796,CA Osasuna,Real Betis Balompié,AWAY_TEAM
+797,Villarreal CF,Elche CF,DRAW
+798,Deportivo Alavés,Real Sociedad de Fútbol,DRAW
+799,SD Eibar,Valencia CF,DRAW
+800,Real Valladolid CF,CA Osasuna,HOME_TEAM
+801,Valencia CF,Athletic Club,DRAW
+802,Getafe CF,Sevilla FC,AWAY_TEAM
+803,SD Huesca,Deportivo Alavés,HOME_TEAM
+804,Real Madrid CF,Club Atlético de Madrid,HOME_TEAM
+805,Real Sociedad de Fútbol,SD Eibar,DRAW
+806,Real Betis Balompié,Villarreal CF,DRAW
+807,Elche CF,Granada CF,AWAY_TEAM
+808,FC Barcelona,Levante UD,HOME_TEAM
+809,RC Celta de Vigo,Cádiz CF,HOME_TEAM
+810,Real Madrid CF,Athletic Club,HOME_TEAM
+811,FC Barcelona,Real Sociedad de Fútbol,HOME_TEAM
+812,Athletic Club,SD Huesca,HOME_TEAM
+813,Club Atlético de Madrid,Elche CF,HOME_TEAM
+814,FC Barcelona,Valencia CF,DRAW
+815,Levante UD,Real Sociedad de Fútbol,HOME_TEAM
+816,CA Osasuna,Villarreal CF,AWAY_TEAM
+817,Sevilla FC,Real Valladolid CF,DRAW
+818,RC Celta de Vigo,Deportivo Alavés,HOME_TEAM
+819,Granada CF,Real Betis Balompié,HOME_TEAM
+820,Cádiz CF,Getafe CF,AWAY_TEAM
+821,SD Eibar,Real Madrid CF,AWAY_TEAM
+822,Valencia CF,Sevilla FC,AWAY_TEAM
+823,Elche CF,CA Osasuna,DRAW
+824,Real Sociedad de Fútbol,Club Atlético de Madrid,AWAY_TEAM
+825,SD Huesca,Levante UD,DRAW
+826,Real Valladolid CF,FC Barcelona,AWAY_TEAM
+827,Villarreal CF,Athletic Club,DRAW
+828,Getafe CF,RC Celta de Vigo,DRAW
+829,Real Madrid CF,Granada CF,HOME_TEAM
+830,Real Betis Balompié,Cádiz CF,HOME_TEAM
+831,Deportivo Alavés,SD Eibar,HOME_TEAM
+832,Sevilla FC,Villarreal CF,HOME_TEAM
+833,FC Barcelona,SD Eibar,DRAW
+834,Cádiz CF,Real Valladolid CF,DRAW
+835,Levante UD,Real Betis Balompié,HOME_TEAM
+836,Granada CF,Valencia CF,HOME_TEAM
+837,RC Celta de Vigo,SD Huesca,HOME_TEAM
+838,Club Atlético de Madrid,Getafe CF,HOME_TEAM
+839,Elche CF,Real Madrid CF,DRAW
+840,Athletic Club,Real Sociedad de Fútbol,AWAY_TEAM
+841,CA Osasuna,Deportivo Alavés,DRAW
+842,Villarreal CF,Levante UD,HOME_TEAM
+843,Real Betis Balompié,Sevilla FC,DRAW
+844,Getafe CF,Real Valladolid CF,AWAY_TEAM
+845,Real Madrid CF,RC Celta de Vigo,HOME_TEAM
+846,Athletic Club,Elche CF,HOME_TEAM
+847,Deportivo Alavés,Club Atlético de Madrid,AWAY_TEAM
+848,Real Sociedad de Fútbol,CA Osasuna,DRAW
+849,SD Eibar,Granada CF,HOME_TEAM
+850,SD Huesca,FC Barcelona,AWAY_TEAM
+851,Valencia CF,Cádiz CF,DRAW
+852,Athletic Club,FC Barcelona,AWAY_TEAM
+853,RC Celta de Vigo,Villarreal CF,AWAY_TEAM
+854,Sevilla FC,Real Sociedad de Fútbol,HOME_TEAM
+855,Granada CF,FC Barcelona,AWAY_TEAM
+856,CA Osasuna,Real Madrid CF,DRAW
+857,Levante UD,SD Eibar,HOME_TEAM
+858,Cádiz CF,Deportivo Alavés,HOME_TEAM
+859,Real Valladolid CF,Valencia CF,AWAY_TEAM
+860,Elche CF,Getafe CF,AWAY_TEAM
+861,SD Huesca,Real Betis Balompié,AWAY_TEAM
+862,Granada CF,CA Osasuna,HOME_TEAM
+863,Club Atlético de Madrid,Sevilla FC,HOME_TEAM
+864,Real Valladolid CF,Elche CF,DRAW
+865,Cádiz CF,Levante UD,DRAW
+866,Deportivo Alavés,Sevilla FC,AWAY_TEAM
+867,Getafe CF,SD Huesca,HOME_TEAM
+868,Real Betis Balompié,RC Celta de Vigo,HOME_TEAM
+869,Villarreal CF,Granada CF,DRAW
+870,Valencia CF,CA Osasuna,DRAW
+871,SD Eibar,Club Atlético de Madrid,AWAY_TEAM
+872,Levante UD,Real Valladolid CF,DRAW
+873,SD Huesca,Villarreal CF,DRAW
+874,Sevilla FC,Cádiz CF,HOME_TEAM
+875,Real Sociedad de Fútbol,Real Betis Balompié,DRAW
+876,Deportivo Alavés,Real Madrid CF,AWAY_TEAM
+877,CA Osasuna,Granada CF,HOME_TEAM
+878,Elche CF,FC Barcelona,AWAY_TEAM
+879,RC Celta de Vigo,SD Eibar,DRAW
+880,Club Atlético de Madrid,Valencia CF,HOME_TEAM
+881,Athletic Club,Getafe CF,HOME_TEAM
+882,Real Valladolid CF,SD Huesca,AWAY_TEAM
+883,SD Eibar,Sevilla FC,AWAY_TEAM
+884,Real Madrid CF,Levante UD,AWAY_TEAM
+885,Valencia CF,Elche CF,HOME_TEAM
+886,Villarreal CF,Real Sociedad de Fútbol,DRAW
+887,Getafe CF,Deportivo Alavés,DRAW
+888,Cádiz CF,Club Atlético de Madrid,AWAY_TEAM
+889,Granada CF,RC Celta de Vigo,DRAW
+890,FC Barcelona,Athletic Club,HOME_TEAM
+891,Real Betis Balompié,CA Osasuna,HOME_TEAM
+892,Deportivo Alavés,Real Valladolid CF,HOME_TEAM
+893,Levante UD,Granada CF,DRAW
+894,SD Huesca,Real Madrid CF,AWAY_TEAM
+895,Elche CF,Villarreal CF,DRAW
+896,Sevilla FC,Getafe CF,HOME_TEAM
+897,Real Sociedad de Fútbol,Cádiz CF,HOME_TEAM
+898,Athletic Club,Valencia CF,DRAW
+899,CA Osasuna,SD Eibar,HOME_TEAM
+900,Real Betis Balompié,FC Barcelona,AWAY_TEAM
+901,Club Atlético de Madrid,RC Celta de Vigo,DRAW
+902,Real Madrid CF,Getafe CF,HOME_TEAM
+903,RC Celta de Vigo,Elche CF,HOME_TEAM
+904,Granada CF,Club Atlético de Madrid,AWAY_TEAM
+905,Sevilla FC,SD Huesca,HOME_TEAM
+906,SD Eibar,Real Valladolid CF,DRAW
+907,FC Barcelona,Deportivo Alavés,HOME_TEAM
+908,Getafe CF,Real Sociedad de Fútbol,AWAY_TEAM
+909,Real Madrid CF,Valencia CF,HOME_TEAM
+910,Levante UD,CA Osasuna,AWAY_TEAM
+911,Villarreal CF,Real Betis Balompié,AWAY_TEAM
+912,Cádiz CF,Athletic Club,AWAY_TEAM
+913,Levante UD,Club Atlético de Madrid,DRAW
+914,Real Betis Balompié,Getafe CF,HOME_TEAM
+915,Elche CF,SD Eibar,HOME_TEAM
+916,Club Atlético de Madrid,Levante UD,AWAY_TEAM
+917,Valencia CF,RC Celta de Vigo,HOME_TEAM
+918,Real Valladolid CF,Real Madrid CF,AWAY_TEAM
+919,FC Barcelona,Cádiz CF,DRAW
+920,Real Sociedad de Fútbol,Deportivo Alavés,HOME_TEAM
+921,SD Huesca,Granada CF,HOME_TEAM
+922,Athletic Club,Villarreal CF,DRAW
+923,CA Osasuna,Sevilla FC,AWAY_TEAM
+924,FC Barcelona,Elche CF,HOME_TEAM
+925,Levante UD,Athletic Club,DRAW
+926,SD Eibar,SD Huesca,DRAW
+927,Sevilla FC,FC Barcelona,AWAY_TEAM
+928,Deportivo Alavés,CA Osasuna,AWAY_TEAM
+929,Getafe CF,Valencia CF,HOME_TEAM
+930,FC Girondins de Bordeaux,FC Nantes,DRAW
+931,Dijon Football Côte d'Or,Angers SCO,AWAY_TEAM
+932,Lille OSC,Stade Rennais FC 1901,DRAW
+933,AS Monaco FC,Stade de Reims,DRAW
+934,FC Lorient,RC Strasbourg Alsace,HOME_TEAM
+935,Nîmes Olympique,Stade Brestois 29,HOME_TEAM
+936,OGC Nice,Racing Club de Lens,HOME_TEAM
+937,Olympique Lyonnais,Dijon Football Côte d'Or,HOME_TEAM
+938,Stade Rennais FC 1901,Montpellier HSC,HOME_TEAM
+939,RC Strasbourg Alsace,OGC Nice,AWAY_TEAM
+940,Stade de Reims,Lille OSC,AWAY_TEAM
+941,AS Saint-Étienne,FC Lorient,HOME_TEAM
+942,Angers SCO,FC Girondins de Bordeaux,AWAY_TEAM
+943,FC Nantes,Nîmes Olympique,HOME_TEAM
+944,FC Metz,AS Monaco FC,AWAY_TEAM
+945,Stade Brestois 29,Olympique de Marseille,AWAY_TEAM
+946,Racing Club de Lens,Paris Saint-Germain FC,HOME_TEAM
+947,FC Girondins de Bordeaux,Olympique Lyonnais,DRAW
+948,Montpellier HSC,OGC Nice,HOME_TEAM
+949,AS Saint-Étienne,RC Strasbourg Alsace,HOME_TEAM
+950,Lille OSC,FC Metz,HOME_TEAM
+951,FC Lorient,Racing Club de Lens,AWAY_TEAM
+952,Angers SCO,Stade de Reims,HOME_TEAM
+953,Dijon Football Côte d'Or,Stade Brestois 29,AWAY_TEAM
+954,Nîmes Olympique,Stade Rennais FC 1901,AWAY_TEAM
+955,AS Monaco FC,FC Nantes,HOME_TEAM
+956,Paris Saint-Germain FC,Olympique de Marseille,AWAY_TEAM
+957,Montpellier HSC,Olympique Lyonnais,HOME_TEAM
+958,Paris Saint-Germain FC,FC Metz,HOME_TEAM
+959,Olympique de Marseille,AS Saint-Étienne,AWAY_TEAM
+960,Olympique Lyonnais,Nîmes Olympique,DRAW
+961,Racing Club de Lens,FC Girondins de Bordeaux,HOME_TEAM
+962,Stade Rennais FC 1901,AS Monaco FC,HOME_TEAM
+963,OGC Nice,Paris Saint-Germain FC,AWAY_TEAM
+964,Montpellier HSC,Angers SCO,HOME_TEAM
+965,Stade Brestois 29,FC Lorient,HOME_TEAM
+966,FC Metz,Stade de Reims,HOME_TEAM
+967,RC Strasbourg Alsace,Dijon Football Côte d'Or,HOME_TEAM
+968,FC Nantes,AS Saint-Étienne,DRAW
+969,Olympique de Marseille,Lille OSC,DRAW
+970,Lille OSC,FC Nantes,HOME_TEAM
+971,AS Saint-Étienne,Stade Rennais FC 1901,AWAY_TEAM
+972,Olympique de Marseille,FC Metz,DRAW
+973,FC Girondins de Bordeaux,OGC Nice,DRAW
+974,Angers SCO,Stade Brestois 29,HOME_TEAM
+975,AS Monaco FC,RC Strasbourg Alsace,HOME_TEAM
+976,Dijon Football Côte d'Or,Montpellier HSC,DRAW
+977,Nîmes Olympique,Racing Club de Lens,DRAW
+978,FC Lorient,Olympique Lyonnais,DRAW
+979,Stade de Reims,Paris Saint-Germain FC,AWAY_TEAM
+980,Paris Saint-Germain FC,Angers SCO,HOME_TEAM
+981,Racing Club de Lens,AS Saint-Étienne,HOME_TEAM
+982,OGC Nice,FC Nantes,HOME_TEAM
+983,Montpellier HSC,Nîmes Olympique,AWAY_TEAM
+984,FC Girondins de Bordeaux,Dijon Football Côte d'Or,HOME_TEAM
+985,Stade Brestois 29,AS Monaco FC,HOME_TEAM
+986,FC Metz,FC Lorient,HOME_TEAM
+987,RC Strasbourg Alsace,Lille OSC,AWAY_TEAM
+988,Stade Rennais FC 1901,Stade de Reims,DRAW
+989,Olympique Lyonnais,Olympique de Marseille,DRAW
+990,Dijon Football Côte d'Or,Stade Rennais FC 1901,DRAW
+991,Nîmes Olympique,Paris Saint-Germain FC,AWAY_TEAM
+992,Stade de Reims,FC Lorient,AWAY_TEAM
+993,Olympique de Marseille,FC Girondins de Bordeaux,HOME_TEAM
+994,RC Strasbourg Alsace,Olympique Lyonnais,AWAY_TEAM
+995,Angers SCO,FC Metz,DRAW
+996,FC Nantes,Stade Brestois 29,HOME_TEAM
+997,AS Monaco FC,Montpellier HSC,DRAW
+998,AS Saint-Étienne,OGC Nice,AWAY_TEAM
+999,Lille OSC,Racing Club de Lens,HOME_TEAM
+1000,Stade Rennais FC 1901,Angers SCO,AWAY_TEAM
+1001,FC Lorient,Olympique de Marseille,AWAY_TEAM
+1002,Paris Saint-Germain FC,Dijon Football Côte d'Or,HOME_TEAM
+1003,Montpellier HSC,Stade de Reims,AWAY_TEAM
+1004,FC Girondins de Bordeaux,Nîmes Olympique,HOME_TEAM
+1005,Stade Brestois 29,RC Strasbourg Alsace,AWAY_TEAM
+1006,FC Metz,AS Saint-Étienne,HOME_TEAM
+1007,OGC Nice,Lille OSC,DRAW
+1008,Olympique Lyonnais,AS Monaco FC,HOME_TEAM
+1009,Stade Rennais FC 1901,Stade Brestois 29,HOME_TEAM
+1010,FC Nantes,Paris Saint-Germain FC,AWAY_TEAM
+1011,AS Saint-Étienne,Montpellier HSC,AWAY_TEAM
+1012,Stade de Reims,RC Strasbourg Alsace,HOME_TEAM
+1013,Angers SCO,OGC Nice,AWAY_TEAM
+1014,Dijon Football Côte d'Or,FC Lorient,DRAW
+1015,Nîmes Olympique,FC Metz,AWAY_TEAM
+1016,AS Monaco FC,FC Girondins de Bordeaux,HOME_TEAM
+1017,Lille OSC,Olympique Lyonnais,DRAW
+1018,RC Strasbourg Alsace,Olympique de Marseille,AWAY_TEAM
+1019,FC Girondins de Bordeaux,Montpellier HSC,AWAY_TEAM
+1020,Paris Saint-Germain FC,Stade Rennais FC 1901,HOME_TEAM
+1021,Stade Brestois 29,Lille OSC,HOME_TEAM
+1022,FC Lorient,FC Nantes,AWAY_TEAM
+1023,Racing Club de Lens,Stade de Reims,DRAW
+1024,Nîmes Olympique,Angers SCO,AWAY_TEAM
+1025,FC Metz,Dijon Football Côte d'Or,DRAW
+1026,OGC Nice,AS Monaco FC,AWAY_TEAM
+1027,Olympique Lyonnais,AS Saint-Étienne,HOME_TEAM
+1028,Stade Rennais FC 1901,FC Girondins de Bordeaux,AWAY_TEAM
+1029,AS Monaco FC,Paris Saint-Germain FC,HOME_TEAM
+1030,Stade Brestois 29,AS Saint-Étienne,HOME_TEAM
+1031,FC Nantes,FC Metz,DRAW
+1032,Dijon Football Côte d'Or,Racing Club de Lens,AWAY_TEAM
+1033,Montpellier HSC,RC Strasbourg Alsace,HOME_TEAM
+1034,Stade de Reims,Nîmes Olympique,AWAY_TEAM
+1035,Angers SCO,Olympique Lyonnais,AWAY_TEAM
+1036,Lille OSC,FC Lorient,HOME_TEAM
+1037,Racing Club de Lens,FC Nantes,DRAW
+1038,RC Strasbourg Alsace,Stade Rennais FC 1901,DRAW
+1039,Olympique de Marseille,FC Nantes,HOME_TEAM
+1040,Paris Saint-Germain FC,FC Girondins de Bordeaux,DRAW
+1041,Olympique Lyonnais,Stade de Reims,HOME_TEAM
+1042,FC Lorient,Montpellier HSC,AWAY_TEAM
+1043,AS Monaco FC,Nîmes Olympique,HOME_TEAM
+1044,Racing Club de Lens,Angers SCO,AWAY_TEAM
+1045,FC Metz,Stade Brestois 29,AWAY_TEAM
+1046,OGC Nice,Dijon Football Côte d'Or,AWAY_TEAM
+1047,AS Saint-Étienne,Lille OSC,DRAW
+1048,Nîmes Olympique,Olympique de Marseille,AWAY_TEAM
+1049,Stade Rennais FC 1901,Racing Club de Lens,AWAY_TEAM
+1050,Montpellier HSC,Paris Saint-Germain FC,AWAY_TEAM
+1051,Lille OSC,AS Monaco FC,HOME_TEAM
+1052,FC Girondins de Bordeaux,Stade Brestois 29,HOME_TEAM
+1053,Angers SCO,FC Lorient,HOME_TEAM
+1054,FC Nantes,RC Strasbourg Alsace,AWAY_TEAM
+1055,Dijon Football Côte d'Or,AS Saint-Étienne,DRAW
+1056,Stade de Reims,OGC Nice,DRAW
+1057,FC Metz,Olympique Lyonnais,AWAY_TEAM
+1058,AS Saint-Étienne,Angers SCO,DRAW
+1059,Olympique de Marseille,AS Monaco FC,HOME_TEAM
+1060,Racing Club de Lens,Montpellier HSC,AWAY_TEAM
+1061,OGC Nice,Stade Rennais FC 1901,AWAY_TEAM
+1062,Stade Brestois 29,Stade de Reims,HOME_TEAM
+1063,FC Lorient,Nîmes Olympique,HOME_TEAM
+1064,FC Nantes,Dijon Football Côte d'Or,DRAW
+1065,RC Strasbourg Alsace,FC Metz,DRAW
+1066,Lille OSC,FC Girondins de Bordeaux,HOME_TEAM
+1067,Paris Saint-Germain FC,Olympique Lyonnais,AWAY_TEAM
+1068,Montpellier HSC,FC Metz,AWAY_TEAM
+1069,Stade de Reims,FC Nantes,HOME_TEAM
+1070,Angers SCO,RC Strasbourg Alsace,AWAY_TEAM
+1071,Dijon Football Côte d'Or,Lille OSC,AWAY_TEAM
+1072,Nîmes Olympique,OGC Nice,AWAY_TEAM
+1073,Paris Saint-Germain FC,FC Lorient,HOME_TEAM
+1074,Olympique Lyonnais,Stade Brestois 29,DRAW
+1075,FC Girondins de Bordeaux,AS Saint-Étienne,AWAY_TEAM
+1076,Stade Rennais FC 1901,Olympique de Marseille,HOME_TEAM
+1077,AS Monaco FC,Racing Club de Lens,AWAY_TEAM
+1078,FC Metz,Racing Club de Lens,HOME_TEAM
+1079,Olympique de Marseille,Stade de Reims,DRAW
+1080,OGC Nice,Olympique Lyonnais,AWAY_TEAM
+1081,Stade Brestois 29,Montpellier HSC,DRAW
+1082,AS Saint-Étienne,Nîmes Olympique,DRAW
+1083,FC Nantes,Angers SCO,DRAW
+1084,Dijon Football Côte d'Or,AS Monaco FC,AWAY_TEAM
+1085,RC Strasbourg Alsace,FC Girondins de Bordeaux,AWAY_TEAM
+1086,FC Lorient,Stade Rennais FC 1901,AWAY_TEAM
+1087,Lille OSC,Paris Saint-Germain FC,DRAW
+1088,FC Girondins de Bordeaux,Stade de Reims,AWAY_TEAM
+1089,Stade Rennais FC 1901,FC Metz,HOME_TEAM
+1090,OGC Nice,FC Lorient,DRAW
+1091,Racing Club de Lens,Stade Brestois 29,HOME_TEAM
+1092,Nîmes Olympique,Dijon Football Côte d'Or,AWAY_TEAM
+1093,Montpellier HSC,Lille OSC,AWAY_TEAM
+1094,Paris Saint-Germain FC,RC Strasbourg Alsace,HOME_TEAM
+1095,Olympique Lyonnais,FC Nantes,HOME_TEAM
+1096,Angers SCO,Olympique de Marseille,HOME_TEAM
+1097,AS Monaco FC,AS Saint-Étienne,DRAW
+1098,Stade Brestois 29,OGC Nice,HOME_TEAM
+1099,FC Lorient,AS Monaco FC,AWAY_TEAM
+1100,FC Nantes,Stade Rennais FC 1901,DRAW
+1101,FC Metz,FC Girondins de Bordeaux,DRAW
+1102,RC Strasbourg Alsace,Nîmes Olympique,HOME_TEAM
+1103,Lille OSC,Angers SCO,AWAY_TEAM
+1104,Olympique Lyonnais,Racing Club de Lens,HOME_TEAM
+1105,AS Saint-Étienne,Paris Saint-Germain FC,DRAW
+1106,Olympique de Marseille,Montpellier HSC,HOME_TEAM
+1107,Stade de Reims,Dijon Football Côte d'Or,DRAW
+1108,Montpellier HSC,FC Nantes,DRAW
+1109,Paris Saint-Germain FC,Stade Brestois 29,HOME_TEAM
+1110,FC Girondins de Bordeaux,FC Lorient,HOME_TEAM
+1111,Stade Rennais FC 1901,Olympique Lyonnais,DRAW
+1112,Stade de Reims,AS Saint-Étienne,HOME_TEAM
+1113,AS Monaco FC,Angers SCO,HOME_TEAM
+1114,Dijon Football Côte d'Or,Olympique de Marseille,DRAW
+1115,Racing Club de Lens,RC Strasbourg Alsace,AWAY_TEAM
+1116,Nîmes Olympique,Lille OSC,AWAY_TEAM
+1117,FC Metz,OGC Nice,DRAW
+1118,Montpellier HSC,AS Monaco FC,AWAY_TEAM
+1119,Olympique de Marseille,Nîmes Olympique,AWAY_TEAM
+1120,Angers SCO,Paris Saint-Germain FC,AWAY_TEAM
+1121,Stade Brestois 29,Stade Rennais FC 1901,AWAY_TEAM
+1122,OGC Nice,FC Girondins de Bordeaux,AWAY_TEAM
+1123,FC Nantes,Racing Club de Lens,DRAW
+1124,RC Strasbourg Alsace,AS Saint-Étienne,HOME_TEAM
+1125,Lille OSC,Stade de Reims,HOME_TEAM
+1126,Olympique Lyonnais,FC Metz,AWAY_TEAM
+1127,Olympique de Marseille,Racing Club de Lens,AWAY_TEAM
+1128,Paris Saint-Germain FC,Montpellier HSC,HOME_TEAM
+1129,Racing Club de Lens,OGC Nice,AWAY_TEAM
+1130,AS Monaco FC,Olympique de Marseille,HOME_TEAM
+1131,FC Girondins de Bordeaux,Angers SCO,HOME_TEAM
+1132,Stade de Reims,Stade Brestois 29,HOME_TEAM
+1133,Dijon Football Côte d'Or,RC Strasbourg Alsace,DRAW
+1134,FC Metz,FC Nantes,HOME_TEAM
+1135,Stade Rennais FC 1901,Lille OSC,AWAY_TEAM
+1136,AS Saint-Étienne,Olympique Lyonnais,AWAY_TEAM
+1137,FC Lorient,Dijon Football Côte d'Or,HOME_TEAM
+1138,Olympique Lyonnais,FC Girondins de Bordeaux,HOME_TEAM
+1139,Montpellier HSC,Racing Club de Lens,AWAY_TEAM
+1140,OGC Nice,AS Saint-Étienne,AWAY_TEAM
+1141,Stade Brestois 29,FC Metz,AWAY_TEAM
+1142,FC Lorient,Paris Saint-Germain FC,HOME_TEAM
+1143,Angers SCO,Nîmes Olympique,HOME_TEAM
+1144,RC Strasbourg Alsace,Stade de Reims,AWAY_TEAM
+1145,Lille OSC,Dijon Football Côte d'Or,HOME_TEAM
+1146,FC Nantes,AS Monaco FC,AWAY_TEAM
+1147,FC Girondins de Bordeaux,Lille OSC,AWAY_TEAM
+1148,Stade Rennais FC 1901,FC Lorient,DRAW
+1149,Stade de Reims,Angers SCO,DRAW
+1150,FC Metz,Montpellier HSC,DRAW
+1151,RC Strasbourg Alsace,Stade Brestois 29,DRAW
+1152,Paris Saint-Germain FC,Nîmes Olympique,HOME_TEAM
+1153,AS Saint-Étienne,FC Nantes,DRAW
+1154,AS Monaco FC,OGC Nice,HOME_TEAM
+1155,Dijon Football Côte d'Or,Olympique Lyonnais,AWAY_TEAM
+1156,Racing Club de Lens,Olympique de Marseille,DRAW
+1157,FC Lorient,Stade de Reims,HOME_TEAM
+1158,Olympique Lyonnais,RC Strasbourg Alsace,HOME_TEAM
+1159,Racing Club de Lens,Stade Rennais FC 1901,DRAW
+1160,Stade Brestois 29,FC Girondins de Bordeaux,HOME_TEAM
+1161,Montpellier HSC,Dijon Football Côte d'Or,HOME_TEAM
+1162,AS Saint-Étienne,FC Metz,HOME_TEAM
+1163,OGC Nice,Angers SCO,HOME_TEAM
+1164,Nîmes Olympique,AS Monaco FC,AWAY_TEAM
+1165,FC Nantes,Lille OSC,AWAY_TEAM
+1166,Olympique de Marseille,Paris Saint-Germain FC,AWAY_TEAM
+1167,Paris Saint-Germain FC,OGC Nice,HOME_TEAM
+1168,Stade de Reims,Racing Club de Lens,DRAW
+1169,Olympique Lyonnais,Montpellier HSC,AWAY_TEAM
+1170,AS Monaco FC,FC Lorient,DRAW
+1171,Stade Rennais FC 1901,AS Saint-Étienne,AWAY_TEAM
+1172,Angers SCO,FC Nantes,AWAY_TEAM
+1173,Dijon Football Côte d'Or,Nîmes Olympique,AWAY_TEAM
+1174,FC Metz,RC Strasbourg Alsace,AWAY_TEAM
+1175,Lille OSC,Stade Brestois 29,DRAW
+1176,FC Girondins de Bordeaux,Olympique de Marseille,DRAW
+1177,Olympique de Marseille,OGC Nice,HOME_TEAM
+1178,Stade Brestois 29,Olympique Lyonnais,AWAY_TEAM
+1179,AS Saint-Étienne,Stade de Reims,DRAW
+1180,FC Nantes,Olympique de Marseille,DRAW
+1181,Montpellier HSC,Stade Rennais FC 1901,HOME_TEAM
+1182,OGC Nice,FC Metz,AWAY_TEAM
+1183,Racing Club de Lens,Dijon Football Côte d'Or,HOME_TEAM
+1184,Nîmes Olympique,FC Girondins de Bordeaux,HOME_TEAM
+1185,RC Strasbourg Alsace,Angers SCO,DRAW
+1186,FC Lorient,Lille OSC,AWAY_TEAM
+1187,Paris Saint-Germain FC,AS Monaco FC,AWAY_TEAM
+1188,Nîmes Olympique,FC Lorient,HOME_TEAM
+1189,Stade Rennais FC 1901,OGC Nice,AWAY_TEAM
+1190,FC Girondins de Bordeaux,FC Metz,AWAY_TEAM
+1191,Dijon Football Côte d'Or,Paris Saint-Germain FC,AWAY_TEAM

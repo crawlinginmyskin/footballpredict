@@ -16,7 +16,7 @@ def get_teams(codes, venue):
 		table_raw = standings['standings']
 		team_standing = table_raw[venue]['table']
 		if a is 'BL1':
-			league_teams = 16
+			league_teams = 18
 		
 		for i in range(0, league_teams):
 			form = team_standing[i]['form']
@@ -65,13 +65,7 @@ def get_matches(codes):
 
 league_codes = ['PL', 'BL1', 'SA', 'PD', 'FL1']
 
-column_labels = {0: 'name',
-                 1: 'form',
-                 2: 'won',
-                 3: 'draw',
-                 4: 'lost',
-                 5: 'goalsFor',
-                 6: 'goalsAgainst'}
+column_labels = ['name', 'form', 'won', 'draw', 'lost', 'goalsFor', 'goalsAgainst']
 
 df = get_teams(league_codes, 0)
 time.sleep(60)
@@ -79,6 +73,13 @@ home_df = get_teams(league_codes, 1)
 time.sleep(60)
 away_df = get_teams(league_codes, 2)
 time.sleep(60)
+
+# the sleep things are here to make sure i'm under api request limit
+
+df.columns = column_labels
+column_labels.remove('form')
+home_df.columns = column_labels
+away_df.columns = column_labels
 
 matches = get_matches(league_codes)
 matches.reset_index(drop=True, inplace=True)
