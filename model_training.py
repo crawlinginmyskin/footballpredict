@@ -13,3 +13,6 @@ model = tf.keras.Sequential([tf.keras.layers.Dense(22),
 model.compile(optimizer='RMSprop', loss='sparse_categorical_crossentropy', metrics=['accuracy'])
 
 model.fit(model_input.values, model_targets.values, validation_split=0.2, shuffle=True, batch_size=20, epochs=250)
+
+model.save('model.h5')
+
