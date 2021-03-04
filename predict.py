@@ -1,6 +1,5 @@
 import pandas as pd
 from data_prep import get_team_stats
-import keras
 from keras.models import load_model
 from keras.utils import CustomObjectScope
 from keras.initializers import glorot_uniform
@@ -25,13 +24,6 @@ team2_stats = get_team_stats(name2, general_df, 1) + get_team_stats(name2, away_
 model_data = np.array([team1_stats + team2_stats])
 result = model.predict(model_data)
 
-print(result)
-print(np.argmax(result))
-if np.argmax(result) == 0:
-	print('draw')
-elif np.argmax(result) == 1:
-	print(name1)
-else:
-	print(name2)
-	
-
+print(format(result[0][0], "%"), 'draw')
+print(format(result[0][1], "%"), name1)
+print(format(result[0][2], "%"), name2)
